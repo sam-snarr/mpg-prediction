@@ -1,0 +1,744 @@
+"year","make","model","engine.fuel.type","engine.hp","engine.cylinders","transmission.type","driven_wheels","number.of.doors","market.category","vehicle.size","vehicle.style","highway.mpg","popularity","msrp"
+2017,"BMW","2 Series","premium unleaded (recommended)",335,6,"AUTOMATIC","all wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",31,3916,46450
+2017,"Chrysler","200","flex-fuel (unleaded/E85)",295,6,"AUTOMATIC","all wheel drive",4,"Flex Fuel,Performance","Midsize","Sedan",28,1013,29905
+2017,"BMW","3 Series Gran Turismo","premium unleaded (required)",320,6,"AUTOMATIC","all wheel drive",4,"Hatchback,Luxury,Performance","Midsize","4dr Hatchback",30,3916,49650
+2017,"Chrysler","300","regular unleaded",292,6,"AUTOMATIC","all wheel drive",4,"N/A","Large","Sedan",27,1013,41135
+2017,"Nissan","370Z","premium unleaded (required)",332,6,"MANUAL","rear wheel drive",2,"High-Performance","Compact","Coupe",26,2009,37970
+2017,"Mazda","3","regular unleaded",155,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",37,586,21495
+2017,"BMW","4 Series Gran Coupe","premium unleaded (recommended)",320,6,"AUTOMATIC","rear wheel drive",4,"Luxury,High-Performance","Midsize","Sedan",32,3916,48300
+2017,"BMW","4 Series","premium unleaded (recommended)",248,4,"AUTOMATIC","rear wheel drive",2,"Luxury","Midsize","Convertible",34,3916,50300
+2017,"BMW","5 Series Gran Turismo","premium unleaded (required)",300,6,"AUTOMATIC","all wheel drive",4,"Hatchback,Luxury","Large","4dr Hatchback",26,3916,63200
+2017,"FIAT","500e","electric",111,0,"DIRECT_DRIVE","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",103,819,31800
+2017,"FIAT","500","premium unleaded (recommended)",160,4,"MANUAL","front wheel drive",2,"Hatchback,Factory Tuner,Performance","Compact","2dr Hatchback",33,819,19995
+2017,"FIAT","500L","premium unleaded (recommended)",160,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",30,819,23695
+2017,"FIAT","500X","regular unleaded",180,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",29,819,27035
+2017,"BMW","6 Series","premium unleaded (required)",445,8,"AUTOMATIC","all wheel drive",2,"Luxury,High-Performance","Midsize","Coupe",24,3916,92000
+2017,"Mazda","6","regular unleaded",184,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",35,586,30695
+2017,"BMW","7 Series","premium unleaded (required)",445,8,"AUTOMATIC","rear wheel drive",4,"Luxury,High-Performance","Large","Sedan",26,3916,94600
+2017,"Toyota","86","premium unleaded (recommended)",205,4,"MANUAL","rear wheel drive",2,"Performance","Compact","Coupe",28,2031,26255
+2017,"Porsche","911","premium unleaded (required)",540,6,"AUTOMATED_MANUAL","all wheel drive",2,"Luxury,High-Performance","Compact","Coupe",29,1715,159200
+2017,"Audi","A3","premium unleaded (recommended)",220,4,"AUTOMATED_MANUAL","all wheel drive",4,"Luxury","Compact","Sedan",35,3105,43150
+2017,"Audi","A4 allroad","premium unleaded (recommended)",252,4,"AUTOMATED_MANUAL","all wheel drive",4,"Luxury","Midsize","Wagon",28,3105,51400
+2017,"Audi","A4","premium unleaded (recommended)",252,4,"AUTOMATED_MANUAL","front wheel drive",4,"Luxury,Performance","Midsize","Sedan",33,3105,37300
+2017,"Audi","A5","flex-fuel (premium unleaded recommended/E85)",220,4,"MANUAL","all wheel drive",2,"Flex Fuel,Luxury","Midsize","Coupe",32,3105,41200
+2017,"Audi","A6","premium unleaded (recommended)",252,4,"AUTOMATIC","all wheel drive",4,"Luxury","Midsize","Sedan",31,3105,53800
+2017,"Audi","A7","premium unleaded (required)",333,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",29,3105,68800
+2017,"Audi","A8","premium unleaded (required)",450,8,"AUTOMATIC","all wheel drive",4,"Luxury,High-Performance","Large","Sedan",29,3105,91500
+2017,"GMC","Acadia Limited","regular unleaded",281,6,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",22,549,43850
+2017,"Honda","Accord Hybrid","regular unleaded",212,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",47,2202,29605
+2017,"BMW","ALPINA B7","premium unleaded (required)",600,8,"AUTOMATIC","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Large","Sedan",24,3916,137000
+2017,"Nissan","Altima","regular unleaded",179,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",39,2009,25460
+2017,"Mercedes-Benz","AMG GT","premium unleaded (required)",503,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Compact","Coupe",22,617,131200
+2017,"Cadillac","ATS","regular unleaded",335,6,"AUTOMATIC","rear wheel drive",4,"Luxury,High-Performance","Midsize","Sedan",30,1624,46995
+2017,"Toyota","Avalon Hybrid","regular unleaded",200,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",39,2031,42550
+2017,"Toyota","Avalon","regular unleaded",268,6,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",30,2031,41050
+2017,"Hyundai","Azera","regular unleaded",293,6,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",28,1439,34100
+2017,"Mercedes-Benz","B-Class Electric Drive","electric",177,0,"DIRECT_DRIVE","front wheel drive",4,"Hatchback,Luxury","Compact","4dr Hatchback",82,617,39900
+2017,"Volkswagen","Beetle","regular unleaded",170,4,"AUTOMATIC","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",33,873,20475
+2017,"Mercedes-Benz","C-Class","premium unleaded (required)",241,4,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",34,617,39850
+2017,"Kia","Cadenza","regular unleaded",290,6,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",28,1720,38990
+2017,"Chevrolet","Camaro","premium unleaded (recommended)",455,8,"MANUAL","rear wheel drive",2,"High-Performance","Midsize","Convertible",25,1385,42905
+2017,"Toyota","Camry Hybrid","regular unleaded",200,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",38,2031,26790
+2017,"Buick","Cascada","premium unleaded (recommended)",200,4,"AUTOMATIC","front wheel drive",2,"N/A","Midsize","Convertible",27,155,36065
+2017,"Porsche","Cayenne","premium unleaded (required)",520,8,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Performance","Midsize","4dr SUV",21,1715,116500
+2017,"Volkswagen","CC","premium unleaded (recommended)",200,4,"AUTOMATED_MANUAL","front wheel drive",4,"Performance","Midsize","Sedan",31,873,37820
+2017,"Dodge","Challenger","regular unleaded",375,8,"MANUAL","rear wheel drive",2,"High-Performance","Large","Coupe",23,1851,35890
+2017,"Dodge","Charger","regular unleaded",292,6,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Sedan",30,1851,27995
+2017,"Chevrolet","City Express","regular unleaded",131,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Cargo Minivan",26,1385,22405
+2017,"Honda","Civic","regular unleaded",174,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",39,2202,19700
+2017,"Mercedes-Benz","CLA-Class","premium unleaded (required)",208,4,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",38,617,32400
+2017,"Lincoln","Continental","regular unleaded",305,6,"AUTOMATIC","front wheel drive",4,"Luxury","Large","Sedan",26,61,44560
+2017,"Toyota","Corolla iM","regular unleaded",137,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",35,2031,18750
+2017,"Toyota","Corolla","regular unleaded",132,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",35,2031,22680
+2017,"Chevrolet","Corvette","premium unleaded (required)",650,8,"MANUAL","rear wheel drive",2,"Factory Tuner,High-Performance","Compact","Convertible",22,1385,87015
+2017,"Subaru","Crosstrek","regular unleaded",148,4,"MANUAL","all wheel drive",4,"Crossover","Compact","4dr SUV",30,640,22495
+2017,"Chevrolet","Cruze","regular unleaded",153,4,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",38,1385,21920
+2017,"Lexus","CT 200h","regular unleaded",134,4,"AUTOMATIC","front wheel drive",4,"Hatchback,Luxury,Hybrid","Compact","4dr Hatchback",40,454,31250
+2017,"Cadillac","CT6","premium unleaded (required)",404,6,"AUTOMATIC","all wheel drive",4,"Luxury,High-Performance","Large","Sedan",26,1624,64395
+2017,"Cadillac","CTS","regular unleaded",335,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",27,1624,61195
+2017,"Mazda","CX-3","regular unleaded",146,4,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",34,586,24990
+2017,"Land Rover","Discovery Sport","premium unleaded (recommended)",240,4,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",25,258,46595
+2017,"Dodge","Durango","regular unleaded",295,6,"AUTOMATIC","rear wheel drive",4,"Crossover,Performance","Large","4dr SUV",26,1851,37495
+2017,"Mercedes-Benz","E-Class","premium unleaded (required)",329,6,"AUTOMATIC","rear wheel drive",2,"Luxury,Performance","Midsize","Convertible",29,617,62600
+2017,"Ford","Edge","premium unleaded (recommended)",245,4,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",29,5657,28950
+2017,"Hyundai","Elantra GT","regular unleaded",173,4,"MANUAL","front wheel drive",4,"Hatchback,Performance","Compact","4dr Hatchback",32,1439,18800
+2017,"Hyundai","Elantra","regular unleaded",147,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",38,1439,18150
+2017,"Buick","Enclave","regular unleaded",288,6,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",22,155,39065
+2017,"Buick","Encore","regular unleaded",138,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",30,155,31965
+2017,"Chevrolet","Equinox","regular unleaded",182,4,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",32,1385,25510
+2017,"Lexus","ES 300h","regular unleaded",200,4,"AUTOMATIC","front wheel drive",4,"Luxury,Hybrid","Midsize","Sedan",39,454,41820
+2017,"Lexus","ES 350","regular unleaded",268,6,"AUTOMATIC","front wheel drive",4,"Luxury,Performance","Midsize","Sedan",30,454,38900
+2017,"Cadillac","Escalade","premium unleaded (recommended)",420,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Large","4dr SUV",22,1624,92195
+2017,"Ford","Escape","regular unleaded",168,4,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",29,5657,23600
+2017,"Lotus","Evora 400","premium unleaded (required)",400,6,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",39,613,91900
+2017,"Ford","Expedition","regular unleaded",365,6,"AUTOMATIC","rear wheel drive",4,"N/A","Large","4dr SUV",20,5657,58021
+2017,"Ford","Explorer","regular unleaded",365,6,"AUTOMATIC","all wheel drive",4,"Crossover,Performance","Midsize","4dr SUV",22,5657,53235
+2017,"Ford","F-150","regular unleaded",325,6,"AUTOMATIC","rear wheel drive",4,"Flex Fuel","Large","Extended Cab Pickup",26,5657,31710
+2017,"Ford","Fiesta","regular unleaded",120,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",35,5657,15660
+2017,"Ford","Focus RS","premium unleaded (recommended)",350,4,"MANUAL","all wheel drive",4,"Hatchback,Factory Tuner,High-Performance","Compact","4dr Hatchback",25,5657,36120
+2017,"Ford","Focus ST","premium unleaded (recommended)",252,4,"MANUAL","front wheel drive",4,"Hatchback,Factory Tuner,Performance","Compact","4dr Hatchback",31,5657,24775
+2017,"Ford","Focus","flex-fuel (unleaded/E85)",160,4,"AUTOMATED_MANUAL","front wheel drive",4,"Hatchback,Flex Fuel","Compact","4dr Hatchback",40,5657,21675
+2017,"Subaru","Forester","premium unleaded (required)",250,4,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",27,640,34295
+2017,"Kia","Forte","regular unleaded",147,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",38,1720,17500
+2017,"Nissan","Frontier","regular unleaded",261,6,"AUTOMATIC","rear wheel drive",4,"N/A","Compact","Crew Cab Pickup",23,2009,25750
+2017,"Ford","Fusion","regular unleaded",231,4,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",31,5657,30610
+2017,"Genesis","G80","regular unleaded",311,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Large","Sedan",28,21,41400
+2017,"Maserati","Ghibli","premium unleaded (required)",404,6,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury,High-Performance","Midsize","Sedan",24,238,77200
+2017,"Mercedes-Benz","GLA-Class","premium unleaded (required)",375,4,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,High-Performance","Compact","4dr SUV",28,617,49900
+2017,"Mercedes-Benz","GLE-Class Coupe","premium unleaded (required)",362,6,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,Performance","Midsize","4dr SUV",23,617,69650
+2017,"Mercedes-Benz","GLE-Class","premium unleaded (required)",577,8,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,High-Performance","Midsize","4dr SUV",17,617,108840
+2017,"Volkswagen","Golf Alltrack","regular unleaded",170,4,"AUTOMATED_MANUAL","all wheel drive",4,"Crossover","Compact","Wagon",30,873,26950
+2017,"Volkswagen","Golf GTI","premium unleaded (recommended)",220,4,"AUTOMATED_MANUAL","front wheel drive",4,"Hatchback,Performance","Compact","4dr Hatchback",32,873,35195
+2017,"Volkswagen","Golf R","premium unleaded (recommended)",292,4,"AUTOMATED_MANUAL","all wheel drive",4,"Hatchback,Factory Tuner,High-Performance","Compact","4dr Hatchback",30,873,36755
+2017,"Volkswagen","Golf SportWagen","regular unleaded",170,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",34,873,22680
+2017,"Volkswagen","Golf","regular unleaded",170,4,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",35,873,20995
+2017,"Lexus","GS 200t","premium unleaded (required)",241,4,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",32,454,46310
+2017,"Lexus","GS 350","premium unleaded (required)",311,6,"AUTOMATIC","rear wheel drive",4,"Luxury,High-Performance","Midsize","Sedan",28,454,50695
+2017,"Nissan","GT-R","premium unleaded (required)",565,6,"AUTOMATED_MANUAL","all wheel drive",2,"High-Performance","Midsize","Coupe",22,2009,109990
+2017,"Lexus","GX 460","premium unleaded (required)",301,8,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",18,454,51280
+2017,"Mitsubishi","i-MiEV","electric",66,0,"DIRECT_DRIVE","rear wheel drive",4,"Hatchback","Compact","4dr Hatchback",102,436,22995
+2017,"BMW","i3","electric",170,0,"DIRECT_DRIVE","rear wheel drive",4,"Hatchback,Luxury","Compact","4dr Hatchback",111,3916,42400
+2017,"Acura","ILX","premium unleaded (recommended)",201,4,"AUTOMATED_MANUAL","front wheel drive",4,"Luxury","Compact","Sedan",35,204,32990
+2017,"Chevrolet","Impala","flex-fuel (unleaded/E85)",305,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel,Performance","Large","Sedan",28,1385,35645
+2017,"Subaru","Impreza","regular unleaded",152,4,"MANUAL","all wheel drive",4,"N/A","Midsize","Sedan",38,640,18395
+2017,"Lexus","IS 200t","premium unleaded (required)",241,4,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",32,454,37825
+2017,"Lexus","IS 300","premium unleaded (required)",255,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Midsize","Sedan",26,454,40200
+2017,"Volkswagen","Jetta","premium unleaded (recommended)",210,4,"AUTOMATED_MANUAL","front wheel drive",4,"Factory Tuner,Performance","Midsize","Sedan",33,873,28995
+2017,"Dodge","Journey","regular unleaded",173,4,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",25,1851,20995
+2017,"Buick","LaCrosse","regular unleaded",310,6,"AUTOMATIC","front wheel drive",4,"Performance","Large","Sedan",31,155,36065
+2017,"Mitsubishi","Lancer","regular unleaded",168,4,"AUTOMATIC","all wheel drive",4,"N/A","Compact","Sedan",30,436,20295
+2017,"Toyota","Land Cruiser","regular unleaded",381,8,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",18,2031,84325
+2017,"Subaru","Legacy","regular unleaded",256,6,"AUTOMATIC","all wheel drive",4,"Performance","Midsize","Sedan",28,640,31640
+2017,"Maserati","Levante","premium unleaded (required)",424,6,"AUTOMATIC","all wheel drive",4,"Crossover,Exotic,Luxury,High-Performance","Large","4dr SUV",19,238,83000
+2017,"Lexus","LS 460","premium unleaded (required)",359,8,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",23,454,82305
+2017,"Lexus","LX 570","premium unleaded (recommended)",383,8,"AUTOMATIC","four wheel drive",4,"Luxury","Large","4dr SUV",18,454,89380
+2017,"BMW","M2","premium unleaded (required)",365,6,"MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",26,3916,51700
+2017,"BMW","M3","premium unleaded (required)",425,6,"MANUAL","rear wheel drive",4,"Factory Tuner,Luxury,High-Performance","Midsize","Sedan",26,3916,64000
+2017,"BMW","M4","premium unleaded (required)",425,6,"MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Convertible",26,3916,74700
+2017,"BMW","M6","premium unleaded (required)",560,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Coupe",20,3916,113700
+2017,"Porsche","Macan","premium unleaded (required)",360,6,"AUTOMATED_MANUAL","all wheel drive",4,"Crossover,Luxury,High-Performance","Midsize","4dr SUV",23,1715,67200
+2017,"Chevrolet","Malibu","regular unleaded",160,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",36,1385,25125
+2017,"Nissan","Maxima","premium unleaded (recommended)",300,6,"AUTOMATIC","front wheel drive",4,"High-Performance","Midsize","Sedan",30,2009,34590
+2017,"Mercedes-Benz","Maybach","premium unleaded (required)",523,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury,High-Performance","Large","Sedan",21,617,191300
+2017,"Mitsubishi","Mirage G4","regular unleaded",78,3,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",40,436,13995
+2017,"Mitsubishi","Mirage","regular unleaded",78,3,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",41,436,14795
+2017,"Lincoln","MKT","regular unleaded",303,6,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Large","Wagon",24,61,43530
+2017,"Lincoln","MKX","regular unleaded",303,6,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",25,61,38260
+2017,"Ford","Mustang","premium unleaded (recommended)",310,4,"MANUAL","rear wheel drive",2,"Performance","Midsize","Coupe",30,5657,25645
+2017,"Lincoln","Navigator","regular unleaded",380,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","4dr SUV",20,61,65560
+2017,"Acura","NSX","premium unleaded (required)",573,6,"AUTOMATED_MANUAL","all wheel drive",2,"Exotic,Luxury,High-Performance,Hybrid","Compact","Coupe",22,204,156000
+2017,"Lexus","NX 200t","premium unleaded (required)",235,4,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",27,454,38585
+2017,"Lexus","NX 300h","regular unleaded",194,4,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Hybrid","Midsize","4dr SUV",30,454,39720
+2017,"Kia","Optima Hybrid","regular unleaded",192,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",46,1720,25995
+2017,"Mitsubishi","Outlander Sport","regular unleaded",168,4,"AUTOMATIC","four wheel drive",4,"Crossover","Compact","4dr SUV",27,436,24195
+2017,"Mitsubishi","Outlander","premium unleaded (recommended)",224,6,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",27,436,31695
+2017,"Volkswagen","Passat","premium unleaded (required)",280,6,"AUTOMATED_MANUAL","front wheel drive",4,"Performance","Midsize","Sedan",28,873,29295
+2017,"Nissan","Pathfinder","regular unleaded",284,6,"AUTOMATIC","four wheel drive",4,"Crossover","Large","4dr SUV",26,2009,37790
+2017,"Toyota","Prius Prime","regular unleaded",121,4,"AUTOMATIC","front wheel drive",4,"Hatchback,Hybrid","Compact","4dr Hatchback",53,2031,27100
+2017,"Toyota","Prius v","regular unleaded",134,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Wagon",39,2031,26675
+2017,"Toyota","Prius","regular unleaded",121,4,"AUTOMATIC","front wheel drive",4,"Hatchback,Hybrid","Compact","4dr Hatchback",50,2031,28115
+2017,"Infiniti","Q50","premium unleaded (required)",208,4,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",31,190,33950
+2017,"Audi","Q5","premium unleaded (required)",272,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",26,3105,53200
+2017,"Infiniti","Q60 Coupe","premium unleaded (recommended)",400,6,"AUTOMATIC","all wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Coupe",26,190,53300
+2017,"Infiniti","QX50","premium unleaded (recommended)",325,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Performance","Midsize","4dr SUV",24,190,36250
+2017,"Audi","R8","premium unleaded (required)",540,10,"AUTOMATED_MANUAL","all wheel drive",2,"Luxury,High-Performance","Compact","Coupe",22,3105,162900
+2017,"Land Rover","Range Rover Evoque","premium unleaded (recommended)",240,4,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Compact","4dr SUV",29,258,51000
+2017,"Toyota","RAV4 Hybrid","regular unleaded",194,4,"AUTOMATIC","all wheel drive",4,"Crossover,Hybrid","Midsize","4dr SUV",30,2031,34030
+2017,"Toyota","RAV4","regular unleaded",176,4,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",29,2031,31830
+2017,"Lexus","RC 300","premium unleaded (required)",255,6,"AUTOMATIC","all wheel drive",2,"Luxury","Midsize","Coupe",26,454,42770
+2017,"Lexus","RC F","premium unleaded (required)",467,8,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Coupe",25,454,64165
+2017,"Acura","RDX","premium unleaded (recommended)",279,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",27,204,38370
+2017,"Buick","Regal","premium unleaded (recommended)",259,4,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",29,155,31615
+2017,"Honda","Ridgeline","regular unleaded",280,6,"AUTOMATIC","all wheel drive",4,"N/A","Large","Crew Cab Pickup",25,2202,37730
+2017,"Acura","RLX","premium unleaded (recommended)",310,6,"AUTOMATIC","front wheel drive",4,"Luxury,Performance","Midsize","Sedan",30,204,54450
+2017,"Nissan","Rogue","regular unleaded",170,4,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",33,2009,23820
+2017,"Lexus","RX 350","regular unleaded",295,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",26,454,50320
+2017,"Lexus","RX 450h","premium unleaded (recommended)",308,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Hybrid","Midsize","4dr SUV",28,454,53035
+2017,"Mercedes-Benz","S-Class","premium unleaded (required)",577,8,"AUTOMATIC","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Large","Sedan",23,617,144700
+2017,"Audi","S3","premium unleaded (required)",292,4,"AUTOMATED_MANUAL","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Compact","Sedan",28,3105,48400
+2017,"Volvo","S60 Cross Country","regular unleaded",240,4,"AUTOMATIC","all wheel drive",4,"Luxury","Midsize","Sedan",30,870,44200
+2017,"Audi","S6","premium unleaded (required)",450,8,"AUTOMATED_MANUAL","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Midsize","Sedan",27,3105,74100
+2017,"Audi","S7","premium unleaded (required)",450,8,"AUTOMATED_MANUAL","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Large","Sedan",27,3105,82900
+2017,"Audi","S8","premium unleaded (recommended)",605,8,"AUTOMATIC","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Large","Sedan",24,3105,115900
+2017,"Volvo","S90","premium unleaded (recommended)",250,4,"AUTOMATIC","front wheel drive",4,"Luxury","Large","Sedan",34,870,46950
+2017,"Kia","Sedona","regular unleaded",276,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",22,1720,41900
+2017,"Nissan","Sentra","regular unleaded",124,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",37,2009,21500
+2017,"Toyota","Sequoia","regular unleaded",381,8,"AUTOMATIC","four wheel drive",4,"N/A","Large","4dr SUV",17,2031,48685
+2017,"Ford","Shelby GT350","premium unleaded (recommended)",526,8,"MANUAL","rear wheel drive",2,"Factory Tuner,High-Performance","Midsize","Coupe",21,5657,61795
+2017,"Toyota","Sienna","regular unleaded",296,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Passenger Minivan",27,2031,29750
+2017,"GMC","Sierra 1500","regular unleaded",355,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Crew Cab Pickup",23,549,44840
+2017,"Chevrolet","Silverado 1500","flex-fuel (unleaded/E85)",285,6,"AUTOMATIC","rear wheel drive",4,"Flex Fuel","Large","Crew Cab Pickup",24,1385,36035
+2017,"Mercedes-Benz","SL-Class","premium unleaded (required)",449,8,"AUTOMATIC","rear wheel drive",2,"Luxury,High-Performance","Compact","Convertible",25,617,110800
+2017,"Mercedes-Benz","SLC-Class","premium unleaded (required)",362,6,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Convertible",29,617,60300
+2017,"Hyundai","Sonata Hybrid","regular unleaded",193,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",45,1439,26000
+2017,"Hyundai","Sonata","regular unleaded",185,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",36,1439,21600
+2017,"Chevrolet","Sonic","regular unleaded",138,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",34,1385,18170
+2017,"Kia","Sorento","regular unleaded",185,4,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",25,1720,28500
+2017,"Kia","Sportage","regular unleaded",181,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",25,1720,27000
+2017,"Audi","SQ5","premium unleaded (required)",354,6,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,Performance","Midsize","4dr SUV",24,3105,60800
+2017,"Chevrolet","Suburban","flex-fuel (unleaded/E85)",355,8,"AUTOMATIC","four wheel drive",4,"Flex Fuel,Performance","Large","4dr SUV",22,1385,58045
+2017,"Toyota","Tacoma","regular unleaded",278,6,"AUTOMATIC","four wheel drive",4,"N/A","Compact","Crew Cab Pickup",23,2031,35315
+2017,"Ford","Taurus","flex-fuel (unleaded/E85)",288,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel,Performance","Large","Sedan",27,5657,36855
+2017,"Volkswagen","Tiguan","premium unleaded (recommended)",200,4,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",24,873,30095
+2017,"Nissan","Titan","regular unleaded",390,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Crew Cab Pickup",21,2009,37670
+2017,"Acura","TLX","premium unleaded (recommended)",290,6,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",34,204,42600
+2017,"Ford","Transit Connect","flex-fuel (unleaded/E85)",169,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Cargo Minivan",27,5657,23900
+2017,"Ford","Transit Wagon","flex-fuel (unleaded/E85)",275,6,"AUTOMATIC","rear wheel drive",3,"Flex Fuel","Midsize","Passenger Van",19,5657,34515
+2017,"Chevrolet","Traverse","regular unleaded",281,6,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",22,1385,38650
+2017,"Chevrolet","Trax","regular unleaded",138,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",30,1385,24400
+2017,"Audi","TTS","premium unleaded (required)",292,4,"AUTOMATED_MANUAL","all wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",27,3105,52500
+2017,"Hyundai","Tucson","regular unleaded",164,4,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",30,1439,22700
+2017,"Toyota","Tundra","regular unleaded",381,8,"AUTOMATIC","four wheel drive",2,"N/A","Large","Regular Cab Pickup",17,2031,33450
+2017,"Volvo","V60 Cross Country","regular unleaded",240,4,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","Wagon",30,870,41700
+2017,"Volvo","V60","regular unleaded",302,4,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Midsize","Wagon",31,870,48950
+2017,"Nissan","Versa Note","regular unleaded",109,4,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",39,2009,15480
+2017,"Nissan","Versa","regular unleaded",109,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",39,2009,17280
+2017,"Subaru","WRX","premium unleaded (required)",305,4,"MANUAL","all wheel drive",4,"Factory Tuner,High-Performance","Compact","Sedan",23,640,39995
+2017,"BMW","X1","premium unleaded (required)",228,4,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Compact","4dr SUV",32,3916,33100
+2017,"BMW","X3","diesel",180,4,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Diesel","Midsize","4dr SUV",34,3916,42750
+2017,"BMW","X4","premium unleaded (required)",355,6,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,High-Performance","Midsize","4dr SUV",26,3916,58100
+2017,"BMW","X5 M","premium unleaded (required)",567,8,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,High-Performance","Midsize","4dr SUV",19,3916,98800
+2017,"BMW","X5","premium unleaded (required)",300,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",24,3916,57800
+2017,"BMW","X6 M","premium unleaded (required)",567,8,"AUTOMATIC","all wheel drive",4,"Crossover,Factory Tuner,Luxury,High-Performance","Midsize","4dr SUV",19,3916,102200
+2017,"BMW","X6","premium unleaded (required)",300,6,"AUTOMATIC","rear wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",25,3916,61400
+2017,"Volvo","XC60","regular unleaded",240,4,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",30,870,40950
+2017,"Cadillac","XT5","premium unleaded (required)",310,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",26,1624,62500
+2017,"Cadillac","XTS","regular unleaded",304,6,"AUTOMATIC","front wheel drive",4,"Luxury,Performance","Large","Sedan",28,1624,45295
+2017,"Toyota","Yaris iA","regular unleaded",106,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",39,2031,15950
+2017,"Toyota","Yaris","regular unleaded",106,4,"AUTOMATIC","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",35,2031,16000
+2017,"GMC","Yukon XL","flex-fuel (unleaded/E85)",355,8,"AUTOMATIC","four wheel drive",4,"Flex Fuel,Performance","Large","4dr SUV",22,549,54230
+2017,"GMC","Yukon","premium unleaded (recommended)",420,8,"AUTOMATIC","four wheel drive",4,"Performance","Large","4dr SUV",20,549,68965
+2016,"Alfa Romeo","4C","premium unleaded (required)",237,4,"AUTOMATED_MANUAL","rear wheel drive",2,"Luxury,High-Performance","Compact","Coupe",34,113,55900
+2016,"Toyota","4Runner","regular unleaded",270,6,"AUTOMATIC","rear wheel drive",4,"N/A","Midsize","4dr SUV",22,2031,36690
+2016,"BMW","5 Series","diesel",255,6,"AUTOMATIC","rear wheel drive",4,"Diesel,Luxury","Large","Sedan",38,3916,57350
+2016,"McLaren","570S","premium unleaded (required)",562,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",23,416,184900
+2016,"Hyundai","Accent","regular unleaded",137,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",37,1439,15745
+2016,"BMW","ActiveHybrid 5","premium unleaded (required)",335,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance,Hybrid","Large","Sedan",30,3916,62100
+2016,"Audi","allroad","premium unleaded (recommended)",220,4,"AUTOMATIC","all wheel drive",4,"Luxury","Midsize","Wagon",28,3105,42700
+2016,"Lamborghini","Aventador","premium unleaded (required)",700,12,"AUTOMATED_MANUAL","all wheel drive",2,"Exotic,High-Performance","Midsize","Convertible",17,1158,443800
+2016,"Volkswagen","Beetle Convertible","premium unleaded (recommended)",210,4,"MANUAL","front wheel drive",2,"Performance","Compact","Convertible",31,873,29790
+2016,"Porsche","Boxster","premium unleaded (required)",330,6,"MANUAL","rear wheel drive",2,"Luxury,High-Performance","Compact","Convertible",26,1715,74600
+2016,"GMC","Canyon","regular unleaded",305,6,"AUTOMATIC","rear wheel drive",4,"Diesel","Compact","Crew Cab Pickup",26,549,34280
+2016,"Porsche","Cayman","premium unleaded (required)",325,6,"MANUAL","rear wheel drive",2,"Luxury,High-Performance","Compact","Coupe",28,1715,64100
+2016,"Bentley","Continental GT","premium unleaded (required)",521,8,"AUTOMATIC","all wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Midsize","Convertible",24,520,231800
+2016,"Honda","CR-V","regular unleaded",185,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",31,2202,27295
+2016,"Honda","CR-Z","regular unleaded",130,4,"MANUAL","front wheel drive",2,"Hatchback,Hybrid","Compact","2dr Hatchback",38,2202,22140
+2016,"Mazda","CX-9","regular unleaded",227,4,"AUTOMATIC","front wheel drive",4,"Crossover","Large","4dr SUV",28,586,35970
+2016,"Rolls-Royce","Dawn","premium unleaded (required)",563,12,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,High-Performance","Large","Convertible",19,86,335000
+2016,"Aston Martin","DB9 GT","premium unleaded (required)",540,12,"AUTOMATIC","rear wheel drive",2,"Exotic,High-Performance","Midsize","Coupe",19,259,235307
+2016,"Volkswagen","e-Golf","electric",115,0,"DIRECT_DRIVE","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",105,873,28995
+2016,"Volkswagen","Eos","premium unleaded (recommended)",200,4,"AUTOMATED_MANUAL","front wheel drive",2,"N/A","Compact","Convertible",30,873,31995
+2016,"Chevrolet","Express","flex-fuel (unleaded/E85)",285,8,"AUTOMATIC","rear wheel drive",3,"Flex Fuel","Large","Passenger Van",16,1385,37500
+2016,"Bentley","Flying Spur","premium unleaded (required)",500,8,"AUTOMATIC","all wheel drive",4,"Exotic,Luxury,High-Performance","Large","Sedan",24,520,201000
+2016,"Mercedes-Benz","G-Class","premium unleaded (required)",416,8,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",14,617,119900
+2016,"Hyundai","Genesis Coupe","premium unleaded (recommended)",348,6,"MANUAL","rear wheel drive",2,"High-Performance","Midsize","Coupe",24,1439,26950
+2016,"Hyundai","Genesis","regular unleaded",311,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",25,1439,41250
+2016,"Rolls-Royce","Ghost Series II","premium unleaded (required)",563,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury,Performance","Large","Sedan",21,86,295850
+2016,"Mercedes-Benz","GL-Class","premium unleaded (required)",429,8,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Performance","Large","4dr SUV",18,617,89950
+2016,"Maserati","GranTurismo Convertible","premium unleaded (required)",454,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Midsize","Convertible",20,238,161070
+2016,"Maserati","GranTurismo","premium unleaded (required)",454,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Large","Coupe",21,238,150570
+2016,"Lexus","GS 450h","premium unleaded (required)",338,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance,Hybrid","Midsize","Sedan",34,454,63080
+2016,"Lexus","GS F","premium unleaded (required)",467,8,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,Luxury,High-Performance","Midsize","Sedan",24,454,84440
+2016,"Toyota","Highlander Hybrid","regular unleaded",280,6,"AUTOMATIC","all wheel drive",4,"Crossover,Hybrid","Midsize","4dr SUV",28,2031,50485
+2016,"Lamborghini","Huracan","premium unleaded (required)",610,10,"AUTOMATED_MANUAL","all wheel drive",2,"Exotic,High-Performance","Compact","Coupe",21,1158,238500
+2016,"Scion","iA","regular unleaded",106,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",42,105,16800
+2016,"Chevrolet","Impala Limited","flex-fuel (unleaded/E85)",300,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Large","Sedan",30,1385,26840
+2016,"Lexus","IS 350","premium unleaded (required)",306,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Midsize","Sedan",26,454,43035
+2016,"Kia","K900","regular unleaded",311,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Sedan",26,1720,49000
+2016,"Nissan","Leaf","electric",147,0,"DIRECT_DRIVE","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",101,2009,29010
+2016,"Land Rover","LR4","premium unleaded (required)",340,6,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",19,258,50400
+2016,"Lexus","LS 600h L","premium unleaded (required)",438,8,"AUTOMATIC","all wheel drive",4,"Luxury,High-Performance,Hybrid","Large","Sedan",23,454,120440
+2016,"BMW","M4 GTS","premium unleaded (required)",493,6,"AUTOMATED_MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Coupe",23,3916,133205
+2016,"BMW","M5","premium unleaded (required)",560,8,"AUTOMATED_MANUAL","rear wheel drive",4,"Factory Tuner,Luxury,High-Performance","Large","Sedan",20,3916,94100
+2016,"Chevrolet","Malibu Limited","regular unleaded",197,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",34,1385,23835
+2016,"Mercedes-Benz","Metris","premium unleaded (recommended)",208,4,"AUTOMATIC","rear wheel drive",4,"Luxury","Compact","Passenger Minivan",23,617,32500
+2016,"Lincoln","MKS","regular unleaded",350,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",24,61,41005
+2016,"Tesla","Model S","electric",518,0,"DIRECT_DRIVE","all wheel drive",4,"Exotic,Performance","Large","Sedan",105,1391,79500
+2016,"Kia","Optima","regular unleaded",245,4,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",32,1720,29940
+2016,"Rolls-Royce","Phantom Coupe","premium unleaded (required)",453,12,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,Performance","Large","Coupe",19,86,449525
+2016,"Rolls-Royce","Phantom Drophead Coupe","premium unleaded (required)",453,12,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,Performance","Large","Convertible",19,86,492000
+2016,"Rolls-Royce","Phantom","premium unleaded (required)",453,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury,Performance","Large","Sedan",19,86,417825
+2016,"Toyota","Prius c","regular unleaded",99,4,"AUTOMATIC","front wheel drive",4,"Hatchback,Hybrid","Compact","4dr Hatchback",46,2031,20360
+2016,"Infiniti","Q70","premium unleaded (required)",420,8,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",23,190,67050
+2016,"Land Rover","Range Rover Sport","premium unleaded (recommended)",510,8,"AUTOMATIC","four wheel drive",4,"Luxury,High-Performance","Midsize","4dr SUV",19,258,93075
+2016,"Land Rover","Range Rover","diesel",254,6,"AUTOMATIC","four wheel drive",4,"Diesel,Luxury","Large","4dr SUV",29,258,86450
+2016,"Audi","S4","premium unleaded (required)",333,6,"AUTOMATED_MANUAL","all wheel drive",4,"Factory Tuner,Luxury,High-Performance","Midsize","Sedan",28,3105,56100
+2016,"Volvo","S80","regular unleaded",240,4,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",37,870,48375
+2016,"GMC","Savana","flex-fuel (unleaded/E85)",285,8,"AUTOMATIC","rear wheel drive",3,"Flex Fuel","Midsize","Passenger Van",16,549,32990
+2016,"Mercedes-Benz","SLK-Class","premium unleaded (required)",302,6,"AUTOMATIC","rear wheel drive",2,"Luxury,High-Performance","Compact","Convertible",29,617,59200
+2016,"Kia","Soul EV","electric",165,0,"DIRECT_DRIVE","front wheel drive",4,"N/A","Compact","Wagon",92,1720,33950
+2016,"Kia","Soul","regular unleaded",130,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",30,1720,17400
+2016,"Chevrolet","SS","premium unleaded (recommended)",415,8,"AUTOMATIC","rear wheel drive",4,"High-Performance","Large","Sedan",20,1385,46575
+2016,"Chrysler","Town and Country","flex-fuel (unleaded/E85)",283,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Midsize","Passenger Minivan",25,1013,35845
+2016,"Aston Martin","V8 Vantage","premium unleaded (required)",430,8,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",19,259,148795
+2016,"Aston Martin","Vanquish","premium unleaded (required)",568,12,"AUTOMATIC","rear wheel drive",2,"Exotic,High-Performance","Midsize","Coupe",21,259,287650
+2016,"Rolls-Royce","Wraith","premium unleaded (required)",624,12,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,High-Performance","Large","Coupe",21,86,304350
+2016,"Volvo","XC70","regular unleaded",240,4,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Midsize","Wagon",31,870,46675
+2016,"BMW","Z4","premium unleaded (required)",300,6,"AUTOMATED_MANUAL","rear wheel drive",2,"Luxury,High-Performance","Compact","Convertible",24,3916,57500
+2015,"Ferrari","458 Italia","premium unleaded (required)",562,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",17,2774,239340
+2015,"Mazda","5","regular unleaded",157,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Passenger Minivan",28,586,24770
+2015,"McLaren","650S Coupe","premium unleaded (required)",641,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",22,416,265500
+2015,"McLaren","650S Spider","premium unleaded (required)",641,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",22,416,280225
+2015,"BMW","ActiveHybrid 7","premium unleaded (required)",335,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance,Hybrid","Large","Sedan",30,3916,84300
+2015,"Ferrari","California T","premium unleaded (required)",553,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",23,2774,198973
+2015,"Chevrolet","Captiva Sport","flex-fuel (unleaded/E85)",180,4,"AUTOMATIC","front wheel drive",4,"Crossover,Flex Fuel","Midsize","4dr SUV",28,1385,25985
+2015,"Bentley","Continental GT3-R","premium unleaded (required)",572,8,"AUTOMATIC","all wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Midsize","Coupe",23,520,337000
+2015,"Honda","Crosstour","regular unleaded",192,4,"AUTOMATIC","front wheel drive",4,"Crossover,Hatchback","Midsize","4dr Hatchback",31,2202,33315
+2015,"Cadillac","CTS-V Coupe","premium unleaded (required)",556,8,"MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Coupe",19,1624,69900
+2015,"Ferrari","F12 Berlinetta","premium unleaded (required)",731,12,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Midsize","Coupe",16,2774,319995
+2015,"Mercedes-Benz","GLK-Class","premium unleaded (required)",302,6,"AUTOMATIC","rear wheel drive",4,"Crossover,Luxury,Performance","Midsize","4dr SUV",25,617,37900
+2015,"Lexus","IS 250 C","premium unleaded (required)",204,6,"AUTOMATIC","rear wheel drive",2,"Luxury","Compact","Convertible",30,454,43360
+2015,"Lexus","IS 250","premium unleaded (required)",204,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",30,454,36550
+2015,"Lexus","IS 350 C","premium unleaded (required)",306,6,"AUTOMATIC","rear wheel drive",2,"Luxury,Performance","Compact","Convertible",27,454,47640
+2015,"Mercedes-Benz","M-Class","premium unleaded (required)",329,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Performance","Midsize","4dr SUV",22,617,62900
+2015,"Infiniti","Q40","premium unleaded (required)",328,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Midsize","Sedan",27,190,33950
+2015,"Infiniti","Q60 Convertible","premium unleaded (required)",343,6,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Luxury,Performance","Midsize","Convertible",26,190,62100
+2015,"Nissan","Rogue Select","regular unleaded",170,4,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",27,2009,21500
+2015,"Audi","RS 5","premium unleaded (required)",450,8,"AUTOMATED_MANUAL","all wheel drive",2,"Factory Tuner,Luxury,High-Performance","Midsize","Convertible",22,3105,79200
+2015,"Toyota","Venza","regular unleaded",268,6,"AUTOMATIC","all wheel drive",4,"Crossover,Performance","Midsize","Wagon",25,2031,35600
+2015,"Scion","xB","regular unleaded",158,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",28,105,18070
+2015,"Subaru","XV Crosstrek","regular unleaded",148,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",34,640,24795
+2014,"Mazda","2","regular unleaded",100,4,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",34,586,17050
+2014,"Honda","Accord Plug-In Hybrid","regular unleaded",196,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",46,2202,39780
+2014,"Dodge","Avenger","regular unleaded",173,4,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Midsize","Sedan",29,1851,20595
+2014,"Ferrari","California","premium unleaded (required)",483,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",19,2774,198190
+2014,"Mercedes-Benz","CL-Class","premium unleaded (required)",621,12,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Large","Coupe",18,617,215500
+2014,"Bentley","Continental GT Speed Convertible","flex-fuel (premium unleaded required/E85)",626,12,"AUTOMATIC","all wheel drive",2,"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance","Midsize","Convertible",20,520,238700
+2014,"Bentley","Continental GT Speed","flex-fuel (premium unleaded required/E85)",616,12,"AUTOMATIC","all wheel drive",2,"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance","Midsize","Coupe",20,520,217000
+2014,"Bentley","Continental GTC","premium unleaded (required)",500,8,"AUTOMATIC","all wheel drive",2,"Exotic,Luxury,High-Performance","Midsize","Convertible",24,520,195200
+2014,"Chevrolet","Corvette Stingray","premium unleaded (recommended)",455,8,"MANUAL","rear wheel drive",2,"High-Performance","Compact","Coupe",29,1385,53000
+2014,"Cadillac","CTS-V Wagon","premium unleaded (required)",556,8,"MANUAL","rear wheel drive",4,"Factory Tuner,Luxury,High-Performance","Midsize","Wagon",19,1624,63600
+2014,"Nissan","Cube","regular unleaded",122,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",31,2009,19000
+2014,"Ford","E-Series Wagon","flex-fuel (unleaded/E85)",225,8,"AUTOMATIC","rear wheel drive",3,"Flex Fuel","Midsize","Passenger Van",16,5657,32675
+2014,"Hyundai","Elantra Coupe","regular unleaded",166,4,"AUTOMATIC","front wheel drive",2,"N/A","Compact","Coupe",34,1439,19600
+2014,"Lotus","Evora","premium unleaded (required)",345,6,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",26,613,78750
+2014,"Chevrolet","Express Cargo","flex-fuel (unleaded/E85)",310,8,"AUTOMATIC","all wheel drive",3,"Flex Fuel","Midsize","Cargo Van",17,1385,32760
+2014,"Honda","Fit EV","electric",123,0,"DIRECT_DRIVE","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",105,2202,36625
+2014,"Toyota","FJ Cruiser","regular unleaded",260,6,"AUTOMATIC","four wheel drive",4,"N/A","Midsize","4dr SUV",20,2031,29270
+2014,"Lamborghini","Gallardo","premium unleaded (required)",550,10,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",20,1158,209500
+2014,"Rolls-Royce","Ghost","premium unleaded (required)",563,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury,Performance","Large","Sedan",21,86,263200
+2014,"Volkswagen","GTI","premium unleaded (recommended)",200,4,"AUTOMATED_MANUAL","front wheel drive",4,"Hatchback,Performance","Compact","4dr Hatchback",33,873,26195
+2014,"Acura","ILX Hybrid","premium unleaded (recommended)",111,4,"AUTOMATIC","front wheel drive",4,"Luxury,Hybrid","Compact","Sedan",38,204,28900
+2014,"Subaru","Impreza WRX","premium unleaded (required)",265,4,"MANUAL","all wheel drive",4,"Hatchback,Performance","Compact","4dr Hatchback",25,640,28495
+2014,"Honda","Insight","regular unleaded",98,4,"AUTOMATIC","front wheel drive",4,"Hatchback,Hybrid","Compact","4dr Hatchback",44,2202,22190
+2014,"Lexus","IS F","premium unleaded (required)",416,8,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,Luxury,High-Performance","Midsize","Sedan",23,454,63600
+2014,"Volkswagen","Jetta GLI","premium unleaded (recommended)",210,4,"MANUAL","front wheel drive",4,"Performance","Midsize","Sedan",33,873,24535
+2014,"Volkswagen","Jetta Hybrid","premium unleaded (required)",170,4,"AUTOMATED_MANUAL","front wheel drive",4,"Hybrid","Midsize","Sedan",48,873,31895
+2014,"Volkswagen","Jetta SportWagen","regular unleaded",170,5,"MANUAL","front wheel drive",4,"N/A","Compact","Wagon",33,873,20995
+2014,"Nissan","Murano CrossCabriolet","premium unleaded (recommended)",265,6,"AUTOMATIC","all wheel drive",2,"Crossover","Midsize","Convertible SUV",22,2009,41995
+2014,"Toyota","RAV4 EV","electric",154,0,"DIRECT_DRIVE","front wheel drive",4,"Crossover","Midsize","4dr SUV",74,2031,49800
+2014,"Ford","Shelby GT500","premium unleaded (required)",662,8,"MANUAL","rear wheel drive",2,"Factory Tuner,High-Performance","Midsize","Coupe",24,5657,55110
+2014,"Mercedes-Benz","SLS AMG GT","premium unleaded (required)",622,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Compact","Coupe",17,617,275000
+2014,"Dodge","SRT Viper","premium unleaded (required)",640,10,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",19,1851,107385
+2014,"Acura","TL","premium unleaded (recommended)",280,6,"AUTOMATIC","front wheel drive",4,"Luxury,Performance","Midsize","Sedan",29,204,37530
+2014,"Subaru","Tribeca","regular unleaded",256,6,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",21,640,34095
+2014,"Acura","TSX Sport Wagon","premium unleaded (recommended)",201,4,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Wagon",30,204,35635
+2014,"Scion","xD","regular unleaded",128,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",33,105,15920
+2013,"BMW","1 Series","premium unleaded (required)",230,6,"MANUAL","rear wheel drive",2,"Luxury","Compact","Convertible",27,3916,37200
+2013,"Chevrolet","Black Diamond Avalanche","flex-fuel (unleaded/E85)",320,8,"AUTOMATIC","four wheel drive",4,"Crossover,Flex Fuel","Large","Crew Cab Pickup",21,1385,39030
+2013,"Volvo","C70","regular unleaded",227,5,"AUTOMATIC","front wheel drive",2,"Luxury","Compact","Convertible",28,870,41200
+2013,"Bentley","Continental Flying Spur Speed","flex-fuel (premium unleaded required/E85)",600,12,"AUTOMATIC","all wheel drive",4,"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance","Large","Sedan",17,520,209600
+2013,"Bentley","Continental Flying Spur","flex-fuel (premium unleaded required/E85)",552,12,"AUTOMATIC","all wheel drive",4,"Exotic,Flex Fuel,Luxury,High-Performance","Large","Sedan",19,520,184200
+2013,"Infiniti","EX","premium unleaded (recommended)",325,6,"AUTOMATIC","rear wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",25,190,36900
+2013,"Infiniti","G Convertible","premium unleaded (required)",343,6,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Luxury,Performance","Midsize","Convertible",25,190,61450
+2013,"Infiniti","G Coupe","premium unleaded (recommended)",330,6,"MANUAL","rear wheel drive",2,"Luxury,High-Performance","Midsize","Coupe",25,190,45500
+2013,"Suzuki","Grand Vitara","regular unleaded",166,4,"AUTOMATIC","four wheel drive",4,"Crossover","Compact","4dr SUV",23,481,23799
+2013,"Infiniti","JX","premium unleaded (recommended)",265,6,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Large","4dr SUV",24,190,41250
+2013,"Infiniti","QX","premium unleaded (recommended)",400,8,"AUTOMATIC","four wheel drive",4,"Luxury","Large","4dr SUV",20,190,64450
+2013,"GMC","Sierra 1500 Hybrid","regular unleaded",332,8,"AUTOMATIC","four wheel drive",4,"Hybrid","Large","Crew Cab Pickup",23,549,51935
+2013,"Chevrolet","Silverado 1500 Hybrid","regular unleaded",332,8,"AUTOMATIC","four wheel drive",4,"Hybrid","Large","Crew Cab Pickup",23,1385,51490
+2013,"Bentley","Supersports Convertible ISR","flex-fuel (premium unleaded required/E85)",631,12,"AUTOMATIC","all wheel drive",2,"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance","Midsize","Convertible",19,520,291900
+2013,"Suzuki","SX4","regular unleaded",150,4,"MANUAL","all wheel drive",4,"Crossover,Hatchback","Compact","4dr Hatchback",30,481,19349
+2013,"Chevrolet","Tahoe Hybrid","regular unleaded",332,8,"AUTOMATIC","four wheel drive",4,"Luxury,Hybrid","Large","4dr SUV",23,1385,56425
+2013,"Audi","TT RS","premium unleaded (required)",360,5,"MANUAL","all wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",25,3105,57200
+2013,"GMC","Yukon Hybrid","regular unleaded",332,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Hybrid","Large","4dr SUV",23,549,54145
+2012,"Maybach","57","premium unleaded (required)",543,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury","Large","Sedan",16,67,379050
+2012,"Saab","9-3 Griffin","flex-fuel (premium unleaded recommended/E85)",220,4,"MANUAL","front wheel drive",4,"Flex Fuel,Luxury","Midsize","Sedan",33,376,28900
+2012,"Chevrolet","Avalanche","flex-fuel (unleaded/E85)",320,8,"AUTOMATIC","rear wheel drive",4,"Crossover,Flex Fuel","Large","Crew Cab Pickup",21,1385,40195
+2012,"Dodge","Caliber","regular unleaded",158,4,"MANUAL","front wheel drive",4,"N/A","Compact","Wagon",32,1851,18730
+2012,"Bentley","Continental Supersports","flex-fuel (premium unleaded required/E85)",621,12,"AUTOMATIC","all wheel drive",2,"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance","Midsize","Coupe",19,520,267000
+2012,"Aston Martin","DBS","premium unleaded (required)",510,12,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Midsize","Convertible",17,259,295987
+2012,"Mitsubishi","Eclipse Spyder","regular unleaded",162,4,"AUTOMATIC","front wheel drive",2,"N/A","Compact","Convertible",27,436,28299
+2012,"Hyundai","Elantra Touring","regular unleaded",138,4,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",30,1439,17195
+2012,"Suzuki","Equator","regular unleaded",152,4,"MANUAL","rear wheel drive",4,"N/A","Compact","Extended Cab Pickup",23,481,19299
+2012,"Volkswagen","GLI","premium unleaded (recommended)",200,4,"AUTOMATED_MANUAL","front wheel drive",4,"Performance","Midsize","Sedan",32,873,26895
+2012,"Lexus","HS 250h","regular unleaded",187,4,"AUTOMATIC","front wheel drive",4,"Luxury,Hybrid","Midsize","Sedan",34,454,39800
+2012,"Maybach","Landaulet","premium unleaded (required)",620,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury,Performance","Large","Convertible",16,67,1382750
+2012,"Lexus","LFA","premium unleaded (required)",552,10,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,Luxury,High-Performance","Compact","Coupe",16,454,375000
+2012,"Mercedes-Benz","R-Class","premium unleaded (required)",302,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Large","Wagon",21,617,52690
+2012,"Aston Martin","Rapide","premium unleaded (required)",470,12,"AUTOMATIC","rear wheel drive",4,"Exotic,High-Performance","Large","Sedan",19,259,226850
+2012,"Acura","RL","premium unleaded (required)",300,6,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Midsize","Sedan",24,204,48200
+2012,"Volkswagen","Routan","flex-fuel (unleaded/E85)",283,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Midsize","Passenger Minivan",25,873,34490
+2012,"Mercedes-Benz","SLS AMG","premium unleaded (required)",563,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Compact","Coupe",20,617,189600
+2012,"Aston Martin","V12 Vantage","premium unleaded (required)",510,12,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",17,259,180535
+2012,"Hyundai","Veracruz","regular unleaded",260,6,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",21,1439,30245
+2012,"Aston Martin","Virage","premium unleaded (required)",490,12,"AUTOMATIC","rear wheel drive",2,"Exotic,High-Performance","Midsize","Coupe",18,259,208295
+2011,"BMW","1 Series M","premium unleaded (required)",335,6,"MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",26,3916,46135
+2011,"Ferrari","599","premium unleaded (required)",611,12,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Midsize","Coupe",15,2774,320580
+2011,"Ferrari","612 Scaglietti","premium unleaded (required)",532,12,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Large","Coupe",16,2774,313088
+2011,"Saab","3-Sep","premium unleaded (recommended)",210,4,"MANUAL","front wheel drive",4,"Luxury","Midsize","Sedan",31,376,28900
+2011,"Saab","9-4X","premium unleaded (required)",265,6,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",25,376,37250
+2011,"BMW","ActiveHybrid X6","premium unleaded (required)",480,8,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,Performance,Hybrid","Midsize","4dr SUV",19,3916,88900
+2011,"Nissan","Altima Hybrid","regular unleaded",198,4,"AUTOMATIC","front wheel drive",4,"Hybrid","Midsize","Sedan",33,2009,26800
+2011,"Chevrolet","Aveo","regular unleaded",108,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",35,1385,15365
+2011,"Bentley","Continental GTC Speed","flex-fuel (premium unleaded required/E85)",600,12,"AUTOMATIC","all wheel drive",2,"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance","Midsize","Convertible",17,520,236100
+2011,"Ford","Crown Victoria","flex-fuel (unleaded/E85)",239,8,"AUTOMATIC","rear wheel drive",4,"Flex Fuel","Large","Sedan",24,5657,29905
+2011,"Cadillac","DTS","premium unleaded (recommended)",292,8,"AUTOMATIC","front wheel drive",4,"Luxury","Large","Sedan",23,1624,59875
+2011,"Honda","Element","regular unleaded",166,4,"AUTOMATIC","all wheel drive",4,"Crossover","Compact","4dr SUV",24,2202,24185
+2011,"Lotus","Elise","premium unleaded (required)",189,4,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",27,613,51845
+2011,"Mitsubishi","Endeavor","premium unleaded (recommended)",225,6,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",21,436,28299
+2011,"Ford","Escape Hybrid","regular unleaded",177,4,"AUTOMATIC","front wheel drive",4,"Crossover,Hybrid","Compact","4dr SUV",31,5657,30570
+2011,"Lotus","Exige","premium unleaded (recommended)",240,4,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",26,613,65690
+2011,"Lexus","GS 460","premium unleaded (required)",342,8,"AUTOMATIC","rear wheel drive",4,"Luxury,High-Performance","Midsize","Sedan",24,454,55370
+2011,"Chevrolet","HHR","flex-fuel (unleaded/E85)",155,4,"MANUAL","front wheel drive",4,"Flex Fuel","Compact","Wagon",32,1385,18720
+2011,"Buick","Lucerne","flex-fuel (unleaded/E85)",227,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Large","Sedan",27,155,29730
+2011,"Infiniti","M37","premium unleaded (recommended)",330,6,"AUTOMATIC","all wheel drive",4,"Luxury","Large","Sedan",24,190,49200
+2011,"Infiniti","M56","premium unleaded (required)",420,8,"AUTOMATIC","all wheel drive",4,"Luxury","Large","Sedan",23,190,60950
+2011,"Lincoln","MKZ Hybrid","regular unleaded",191,4,"AUTOMATIC","front wheel drive",4,"Luxury,Hybrid","Midsize","Sedan",36,61,34645
+2011,"Dodge","Nitro","regular unleaded",260,6,"AUTOMATIC","four wheel drive",4,"Crossover,Performance","Midsize","4dr SUV",21,1851,28995
+2011,"Ford","Ranger","regular unleaded",143,4,"MANUAL","rear wheel drive",2,"N/A","Compact","Regular Cab Pickup",27,5657,18160
+2011,"Volvo","S40","regular unleaded",227,5,"AUTOMATIC","front wheel drive",4,"Luxury","Compact","Sedan",30,870,27750
+2011,"Cadillac","STS","regular unleaded",302,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Sedan",27,1624,47280
+2011,"Lincoln","Town Car","flex-fuel (unleaded/E85)",239,8,"AUTOMATIC","rear wheel drive",4,"Flex Fuel,Luxury","Large","Sedan",24,61,47225
+2011,"Mazda","Tribute","regular unleaded",171,4,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",28,586,25700
+2011,"Volvo","V50","regular unleaded",227,5,"AUTOMATIC","front wheel drive",4,"Luxury","Compact","Wagon",30,870,32850
+2010,"Bentley","Brooklands","premium unleaded (required)",530,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,High-Performance","Large","Coupe",15,520,340990
+2010,"Dodge","Dakota","regular unleaded",210,6,"AUTOMATIC","rear wheel drive",4,"Flex Fuel","Compact","Crew Cab Pickup",20,1851,26325
+2010,"Infiniti","EX35","premium unleaded (recommended)",297,6,"AUTOMATIC","rear wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",24,190,33800
+2010,"Ford","Explorer Sport Trac","regular unleaded",210,6,"AUTOMATIC","rear wheel drive",4,"Crossover","Compact","Crew Cab Pickup",20,5657,33065
+2010,"Infiniti","FX35","premium unleaded (required)",303,6,"AUTOMATIC","rear wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",23,190,42850
+2010,"Infiniti","FX50","premium unleaded (required)",390,8,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury,High-Performance","Midsize","4dr SUV",20,190,59000
+2010,"Pontiac","G6","regular unleaded",164,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",30,210,21275
+2010,"HUMMER","H3","flex-fuel (unleaded/E85)",300,8,"AUTOMATIC","four wheel drive",4,"Flex Fuel,Luxury","Midsize","4dr SUV",16,130,41705
+2010,"HUMMER","H3T","flex-fuel (unleaded/E85)",300,8,"AUTOMATIC","four wheel drive",4,"Crossover,Flex Fuel,Luxury","Compact","Crew Cab Pickup",16,130,39205
+2010,"Infiniti","M35","premium unleaded (recommended)",303,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Large","Sedan",25,190,45800
+2010,"Infiniti","M45","premium unleaded (required)",325,8,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Large","Sedan",20,190,54650
+2010,"Lamborghini","Murcielago","premium unleaded (required)",670,12,"AUTOMATED_MANUAL","all wheel drive",2,"Exotic,Factory Tuner,High-Performance","Compact","Coupe",14,1158,450000
+2010,"Chrysler","PT Cruiser","regular unleaded",150,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",24,1013,18275
+2010,"Dodge","Ram Pickup 1500","flex-fuel (unleaded/E85)",310,8,"AUTOMATIC","four wheel drive",4,"Flex Fuel","Large","Crew Cab Pickup",18,1851,31730
+2010,"Volvo","V70","premium unleaded (recommended)",235,6,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Wagon",27,870,33550
+2010,"Pontiac","Vibe","regular unleaded",158,4,"AUTOMATIC","all wheel drive",4,"Hatchback","Compact","4dr Hatchback",26,210,20275
+2009,"Nissan","350Z","regular unleaded",306,6,"MANUAL","rear wheel drive",2,"High-Performance","Compact","Convertible",24,2009,41570
+2009,"Saab","9-7X","regular unleaded",390,8,"AUTOMATIC","all wheel drive",4,"Luxury","Midsize","4dr SUV",16,376,49105
+2009,"Bentley","Arnage","premium unleaded (required)",500,8,"AUTOMATIC","rear wheel drive",4,"Exotic,Factory Tuner,Luxury,High-Performance","Large","Sedan",14,520,270990
+2009,"Chrysler","Aspen","regular unleaded",385,8,"AUTOMATIC","four wheel drive",4,"Hybrid","Large","4dr SUV",22,1013,45270
+2009,"Bentley","Azure","premium unleaded (required)",450,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,Performance","Large","Convertible",15,520,334990
+2009,"Kia","Borrego","regular unleaded",337,8,"AUTOMATIC","rear wheel drive",4,"N/A","Midsize","4dr SUV",22,1720,30995
+2009,"Spyker","C8","premium unleaded (required)",400,8,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",18,2,209990
+2009,"Mercedes-Benz","CLK-Class","premium unleaded (required)",268,6,"AUTOMATIC","rear wheel drive",2,"Luxury,Performance","Midsize","Convertible",25,617,56100
+2009,"GMC","Envoy","regular unleaded",285,6,"AUTOMATIC","four wheel drive",4,"N/A","Midsize","4dr SUV",20,549,35615
+2009,"Ferrari","F430","premium unleaded (required)",483,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",16,2774,200054
+2009,"Infiniti","G37","premium unleaded (required)",328,6,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Midsize","Sedan",26,190,33700
+2009,"Pontiac","G3","regular unleaded",106,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",34,210,14335
+2009,"Pontiac","G5","regular unleaded",155,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",37,210,16980
+2009,"Pontiac","G8","regular unleaded",355,8,"AUTOMATIC","rear wheel drive",4,"High-Performance","Large","Sedan",24,210,31755
+2009,"Lexus","GX 470","premium unleaded (required)",263,8,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",18,454,47615
+2009,"Volkswagen","Rabbit","regular unleaded",170,5,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",29,873,19340
+2009,"Mitsubishi","Raider","regular unleaded",210,6,"AUTOMATIC","rear wheel drive",4,"N/A","Compact","Extended Cab Pickup",20,436,24235
+2009,"Kia","Rondo","regular unleaded",192,6,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Wagon",26,1720,19495
+2009,"Honda","S2000","premium unleaded (required)",237,4,"MANUAL","rear wheel drive",2,"Factory Tuner,High-Performance","Compact","Convertible",25,2202,36995
+2009,"Mercedes-Benz","SLR McLaren","premium unleaded (required)",617,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Compact","Convertible",16,617,495000
+2009,"Pontiac","Solstice","premium unleaded (recommended)",173,4,"MANUAL","rear wheel drive",2,"Performance","Compact","Convertible",25,210,24275
+2009,"Kia","Spectra","regular unleaded",138,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",30,1720,13550
+2009,"Cadillac","STS-V","premium unleaded (required)",469,8,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,Luxury,High-Performance","Large","Sedan",19,1624,81795
+2009,"Ford","Taurus X","regular unleaded",263,6,"AUTOMATIC","front wheel drive",4,"Crossover","Large","Wagon",24,5657,32325
+2009,"Pontiac","Torrent","regular unleaded",185,6,"AUTOMATIC","front wheel drive",4,"Crossover","Compact","4dr SUV",24,210,24820
+2009,"Volkswagen","Touareg 2","diesel",221,6,"AUTOMATIC","all wheel drive",4,"Crossover,Diesel","Midsize","4dr SUV",25,873,42800
+2009,"Chevrolet","TrailBlazer","regular unleaded",285,6,"AUTOMATIC","four wheel drive",4,"N/A","Midsize","4dr SUV",20,1385,35770
+2009,"Mazda","Tribute Hybrid","regular unleaded",177,4,"AUTOMATIC","front wheel drive",4,"Crossover,Hybrid","Compact","4dr SUV",31,586,29175
+2009,"Suzuki","XL7","regular unleaded",252,6,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",24,481,28280
+2009,"Cadillac","XLR-V","premium unleaded (required)",443,8,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Convertible",23,1624,104215
+2009,"Cadillac","XLR","premium unleaded (recommended)",320,8,"AUTOMATIC","rear wheel drive",2,"Luxury","Compact","Convertible",24,1624,86215
+2008,"Toyota","Camry Solara","regular unleaded",210,6,"AUTOMATIC","front wheel drive",2,"N/A","Midsize","Convertible",26,2031,27440
+2008,"Chrysler","Crossfire","premium unleaded (required)",215,6,"MANUAL","rear wheel drive",2,"Performance","Compact","Convertible",23,1013,39130
+2008,"Hyundai","Entourage","regular unleaded",250,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",23,1439,29895
+2008,"Infiniti","FX45","premium unleaded (required)",320,8,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","4dr SUV",17,190,50100
+2008,"Infiniti","G35","premium unleaded (required)",306,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",24,190,32250
+2008,"Dodge","Magnum","premium unleaded (recommended)",425,8,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,High-Performance","Large","Wagon",18,1851,38105
+2008,"Chevrolet","Malibu Classic","regular unleaded",219,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",29,1385,20320
+2008,"Lincoln","Mark LT","regular unleaded",300,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Crew Cab Pickup",16,61,38915
+2008,"Volkswagen","R32","premium unleaded (required)",250,6,"AUTOMATED_MANUAL","all wheel drive",2,"Hatchback,Performance","Compact","2dr Hatchback",23,873,32990
+2008,"Lamborghini","Reventon","premium unleaded (required)",650,12,"AUTOMATED_MANUAL","all wheel drive",2,"Exotic,High-Performance","Compact","Coupe",14,1158,1500000
+2008,"Audi","RS 4","premium unleaded (required)",420,8,"MANUAL","all wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Convertible",19,3105,81900
+2008,"Lexus","RX 400h","premium unleaded (required)",268,6,"AUTOMATIC","front wheel drive",4,"Crossover,Luxury,Hybrid","Midsize","4dr SUV",24,454,42080
+2008,"BMW","Z4 M","premium unleaded (required)",330,6,"MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",23,3916,50400
+2007,"Subaru","B9 Tribeca","premium unleaded (required)",245,6,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",21,640,29995
+2007,"Dodge","Caravan","regular unleaded",170,6,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Passenger Minivan",24,1851,22995
+2007,"Ford","Five Hundred","regular unleaded",203,6,"AUTOMATIC","all wheel drive",4,"N/A","Large","Sedan",23,5657,28460
+2007,"Ford","Freestar","regular unleaded",201,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",21,5657,26665
+2007,"Ford","Freestyle","regular unleaded",203,6,"AUTOMATIC","all wheel drive",4,"Crossover","Large","Wagon",22,5657,27770
+2007,"Lexus","GS 430","premium unleaded (required)",290,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Midsize","Sedan",23,454,52375
+2007,"Lexus","LX 470","regular unleaded",268,8,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",15,454,67395
+2007,"Chevrolet","Malibu Maxx","regular unleaded",217,6,"AUTOMATIC","front wheel drive",4,"Hatchback","Midsize","4dr Hatchback",28,1385,20575
+2007,"Mazda","Mazdaspeed 6","premium unleaded (required)",274,4,"MANUAL","all wheel drive",4,"Factory Tuner,Performance","Midsize","Sedan",23,586,29925
+2007,"Chevrolet","Monte Carlo","regular unleaded",303,8,"AUTOMATIC","front wheel drive",2,"Performance","Midsize","Coupe",24,1385,27740
+2007,"Buick","Rainier","regular unleaded",291,6,"AUTOMATIC","all wheel drive",4,"N/A","Midsize","4dr SUV",20,155,33570
+2007,"Buick","Rendezvous","regular unleaded",196,6,"AUTOMATIC","front wheel drive",4,"Crossover","Midsize","4dr SUV",23,155,28765
+2007,"GMC","Sierra 1500 Classic","flex-fuel (unleaded/E85)",295,8,"AUTOMATIC","rear wheel drive",4,"Flex Fuel","Large","Crew Cab Pickup",19,549,30930
+2007,"Chevrolet","Silverado 1500 Classic","regular unleaded",285,8,"AUTOMATIC","four wheel drive",2,"Flex Fuel","Large","Regular Cab Pickup",18,1385,26685
+2007,"Buick","Terraza","regular unleaded",240,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Midsize","Passenger Minivan",23,155,30780
+2006,"Saab","9-2X","premium unleaded (required)",230,4,"MANUAL","all wheel drive",4,"Luxury,Performance","Compact","Wagon",25,376,26950
+2006,"Porsche","Cayman S","premium unleaded (required)",295,6,"MANUAL","rear wheel drive",2,"Luxury,High-Performance","Compact","Coupe",26,1715,58900
+2006,"Maserati","Coupe","premium unleaded (required)",390,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,Luxury,High-Performance","Compact","Coupe",18,238,87577
+2006,"GMC","Envoy XL","regular unleaded",291,6,"AUTOMATIC","four wheel drive",4,"N/A","Large","4dr SUV",18,549,33160
+2006,"Maserati","GranSport","premium unleaded (required)",401,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Compact","Coupe",18,238,98872
+2006,"Lexus","GS 300","premium unleaded (required)",245,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",27,454,43150
+2006,"Ford","GT","premium unleaded (required)",550,8,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",19,5657,149995
+2006,"Pontiac","GTO","premium unleaded (required)",400,8,"AUTOMATIC","rear wheel drive",2,"High-Performance","Midsize","Coupe",19,210,31290
+2006,"Lexus","LS 430","premium unleaded (required)",278,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Large","Sedan",23,454,56525
+2006,"BMW","M","premium unleaded (required)",330,6,"MANUAL","rear wheel drive",2,"Factory Tuner,Luxury,High-Performance","Compact","Coupe",22,3916,49300
+2006,"Pontiac","Montana SV6","regular unleaded",201,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",23,210,24250
+2006,"Mitsubishi","Montero","regular unleaded",215,6,"AUTOMATIC","four wheel drive",4,"N/A","Midsize","4dr SUV",17,436,36159
+2006,"Mazda","MPV","regular unleaded",200,6,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Passenger Minivan",23,586,28515
+2006,"Infiniti","Q45","premium unleaded (required)",340,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Large","Sedan",22,190,58100
+2006,"Acura","RSX","regular unleaded",155,4,"MANUAL","front wheel drive",2,"Hatchback,Luxury","Compact","2dr Hatchback",31,204,20325
+2006,"GMC","Sierra 1500HD","regular unleaded",300,8,"AUTOMATIC","four wheel drive",4,"N/A","Large","Crew Cab Pickup",16,549,34640
+2006,"Chevrolet","SSR","regular unleaded",395,8,"AUTOMATIC","rear wheel drive",2,"High-Performance","Compact","Regular Cab Pickup",18,1385,39240
+2006,"Dodge","Stratus","regular unleaded",200,6,"AUTOMATIC","front wheel drive",4,"Performance","Midsize","Sedan",25,1851,23755
+2006,"Chevrolet","TrailBlazer EXT","regular unleaded",291,6,"AUTOMATIC","rear wheel drive",4,"N/A","Large","4dr SUV",19,1385,27980
+2006,"Aston Martin","V12 Vanquish","premium unleaded (required)",520,12,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,Factory Tuner,High-Performance","Compact","Coupe",16,259,260000
+2006,"Suzuki","Verona","regular unleaded",155,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",25,481,20299
+2006,"Scion","xA","regular unleaded",103,4,"AUTOMATIC","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",35,105,13580
+2006,"Suzuki","XL-7","regular unleaded",185,6,"AUTOMATIC","four wheel drive",4,"N/A","Midsize","4dr SUV",20,481,24899
+2006,"Lincoln","Zephyr","regular unleaded",221,6,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",26,61,28995
+2005,"Audi","allroad quattro","regular unleaded",250,6,"MANUAL","all wheel drive",4,"Crossover,Luxury,Performance","Midsize","Wagon",21,3105,40250
+2005,"Chevrolet","Astro Cargo","regular unleaded",190,6,"AUTOMATIC","rear wheel drive",3,"N/A","Large","Cargo Minivan",20,1385,22930
+2005,"Chevrolet","Astro","regular unleaded",190,6,"AUTOMATIC","rear wheel drive",3,"N/A","Large","Passenger Minivan",20,1385,24430
+2005,"Lincoln","Aviator","premium unleaded (required)",302,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","4dr SUV",17,61,40635
+2005,"Pontiac","Aztek","regular unleaded",185,6,"AUTOMATIC","all wheel drive",4,"Crossover","Midsize","4dr SUV",22,210,24445
+2005,"Chevrolet","Blazer","regular unleaded",190,6,"MANUAL","four wheel drive",2,"N/A","Compact","2dr SUV",17,1385,24305
+2005,"Pontiac","Bonneville","premium unleaded (required)",275,8,"AUTOMATIC","front wheel drive",4,"Performance","Large","Sedan",22,210,35585
+2005,"Porsche","Carrera GT","premium unleaded (required)",605,10,"MANUAL","rear wheel drive",2,"Exotic,Luxury,High-Performance","Compact","Convertible",15,1715,440000
+2005,"Chevrolet","Cavalier","regular unleaded",140,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",33,1385,16290
+2005,"Toyota","Celica","regular unleaded",140,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",30,2031,17670
+2005,"Buick","Century","regular unleaded",175,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",27,155,22040
+2005,"Chevrolet","Classic","regular unleaded",140,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",31,1385,19690
+2005,"Cadillac","DeVille","regular unleaded",275,8,"AUTOMATIC","front wheel drive",4,"Luxury","Large","Sedan",22,1624,51600
+2005,"Toyota","ECHO","regular unleaded",108,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",38,2031,10985
+2005,"GMC","Envoy XUV","regular unleaded",275,6,"AUTOMATIC","four wheel drive",4,"N/A","Large","4dr SUV",17,549,36115
+2005,"Land Rover","Freelander","regular unleaded",174,6,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Compact","4dr SUV",19,258,26830
+2005,"Pontiac","Grand Am","regular unleaded",175,6,"AUTOMATIC","front wheel drive",2,"N/A","Midsize","Coupe",27,210,23750
+2005,"Buick","LeSabre","regular unleaded",205,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",27,155,26725
+2005,"Mazda","Mazdaspeed MX-5 Miata","premium unleaded (required)",178,4,"MANUAL","rear wheel drive",2,"Factory Tuner,Performance","Compact","Convertible",24,586,25780
+2005,"Pontiac","Montana","regular unleaded",200,6,"AUTOMATIC","all wheel drive",4,"N/A","Midsize","Passenger Minivan",21,210,30210
+2005,"Toyota","MR2 Spyder","regular unleaded",138,4,"AUTOMATED_MANUAL","rear wheel drive",2,"Performance","Compact","Convertible",30,2031,26145
+2005,"Buick","Park Avenue","premium unleaded (required)",240,6,"AUTOMATIC","front wheel drive",4,"Performance","Large","Sedan",26,155,40730
+2005,"GMC","Safari Cargo","regular unleaded",190,6,"AUTOMATIC","rear wheel drive",3,"N/A","Large","Cargo Minivan",20,549,22930
+2005,"GMC","Safari","regular unleaded",190,6,"AUTOMATIC","rear wheel drive",3,"N/A","Large","Passenger Minivan",20,549,24430
+2005,"Maserati","Spyder","premium unleaded (required)",385,8,"MANUAL","rear wheel drive",2,"Exotic,Luxury,High-Performance","Compact","Convertible",15,238,87252
+2005,"Pontiac","Sunfire","regular unleaded",140,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",32,210,15205
+2005,"Ferrari","Superamerica","premium unleaded (required)",532,12,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",15,2774,281170
+2005,"Ford","Thunderbird","premium unleaded (required)",280,8,"AUTOMATIC","rear wheel drive",2,"Performance","Midsize","Convertible",22,5657,38355
+2005,"Chevrolet","Venture","regular unleaded",185,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",24,1385,30760
+2004,"Ferrari","360","premium unleaded (required)",400,8,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",15,2774,157767
+2004,"Ferrari","575M","premium unleaded (required)",515,12,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",16,2774,228339
+2004,"Oldsmobile","Alero","regular unleaded",170,6,"AUTOMATIC","front wheel drive",2,"N/A","Midsize","Coupe",27,26,23335
+2004,"Oldsmobile","Bravada","regular unleaded",275,6,"AUTOMATIC","rear wheel drive",4,"N/A","Midsize","4dr SUV",19,26,33920
+2004,"Chrysler","Concorde","regular unleaded",200,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",27,1013,23480
+2004,"Mitsubishi","Diamante","premium unleaded (required)",205,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",23,436,24999
+2004,"Lotus","Esprit","premium unleaded (required)",350,8,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",21,613,93225
+2004,"Ford","F-150 Heritage","regular unleaded",202,6,"MANUAL","rear wheel drive",4,"N/A","Large","Extended Cab Pickup",19,5657,22295
+2004,"Dodge","Intrepid","regular unleaded",234,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",25,1851,25415
+2004,"Mitsubishi","Montero Sport","regular unleaded",197,6,"AUTOMATIC","rear wheel drive",4,"N/A","Midsize","4dr SUV",19,436,26199
+2004,"Chevrolet","S-10","regular unleaded",190,6,"AUTOMATIC","four wheel drive",4,"N/A","Compact","Crew Cab Pickup",18,1385,24660
+2004,"Cadillac","Seville","regular unleaded",275,8,"AUTOMATIC","front wheel drive",4,"Luxury","Large","Sedan",24,1624,45975
+2004,"Oldsmobile","Silhouette","regular unleaded",185,6,"AUTOMATIC","all wheel drive",4,"N/A","Midsize","Passenger Minivan",22,26,36795
+2004,"Volvo","V40","premium unleaded (required)",170,4,"AUTOMATIC","front wheel drive",4,"Luxury","Compact","Wagon",27,870,25700
+2004,"Suzuki","Vitara","regular unleaded",165,6,"AUTOMATIC","four wheel drive",4,"N/A","Compact","4dr SUV",20,481,19199
+2003,"Ferrari","456M","premium unleaded (required)",442,12,"AUTOMATIC","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",14,2774,228625
+2003,"BMW","Alpina","premium unleaded (required)",375,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,Luxury,High-Performance","Compact","Convertible",19,3916,136900
+2003,"Acura","CL","premium unleaded (required)",260,6,"MANUAL","front wheel drive",2,"Factory Tuner,Luxury,Performance","Midsize","Coupe",26,204,32700
+2003,"Bentley","Continental","premium unleaded (required)",420,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury,Performance","Large","Coupe",15,520,328990
+2003,"Aston Martin","DB7","premium unleaded (required)",420,12,"AUTOMATIC","rear wheel drive",2,"Exotic,Factory Tuner,High-Performance","Compact","Coupe",18,259,156300
+2003,"Ferrari","Enzo","premium unleaded (required)",660,12,"AUTOMATED_MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Coupe",12,2774,643330
+2003,"Lexus","ES 300","regular unleaded",210,6,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",27,454,31725
+2003,"Ford","Escort","regular unleaded",130,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",30,5657,13205
+2003,"Volkswagen","EuroVan","premium unleaded (recommended)",201,6,"AUTOMATIC","front wheel drive",3,"N/A","Large","Passenger Minivan",18,873,26200
+2003,"Ford","Explorer Sport","regular unleaded",203,6,"AUTOMATIC","rear wheel drive",2,"N/A","Midsize","2dr SUV",19,5657,23835
+2003,"Mazda","Mazdaspeed Protege","premium unleaded (required)",170,4,"MANUAL","front wheel drive",4,"Factory Tuner,Performance","Compact","Sedan",27,586,20480
+2003,"Mazda","Protege","regular unleaded",130,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",28,586,16140
+2003,"Infiniti","QX4","premium unleaded (required)",240,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","4dr SUV",19,190,34750
+2003,"GMC","Sonoma","flex-fuel (unleaded/E85)",120,4,"MANUAL","rear wheel drive",2,"Flex Fuel","Compact","Regular Cab Pickup",25,549,14770
+2003,"Mazda","Truck","regular unleaded",207,6,"MANUAL","four wheel drive",2,"N/A","Compact","Extended Cab Pickup",17,586,21410
+2003,"Chrysler","Voyager","regular unleaded",150,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",25,1013,20960
+2003,"Ford","Windstar Cargo","regular unleaded",200,6,"AUTOMATIC","front wheel drive",3,"N/A","Midsize","Cargo Minivan",22,5657,21075
+2003,"Ford","Windstar","regular unleaded",200,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Passenger Minivan",22,5657,27870
+2003,"BMW","Z8","premium unleaded (required)",394,8,"MANUAL","rear wheel drive",2,"Exotic,Luxury,High-Performance","Compact","Convertible",19,3916,131500
+2002,"Mazda","626","premium unleaded (required)",165,6,"MANUAL","front wheel drive",4,"N/A","Midsize","Sedan",25,586,19985
+2002,"Lincoln","Blackwood","premium unleaded (required)",300,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Crew Cab Pickup",15,61,51785
+2002,"Land Rover","Discovery Series II","premium unleaded (required)",188,8,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",16,258,33350
+2002,"Cadillac","Eldorado","regular unleaded",300,8,"AUTOMATIC","front wheel drive",2,"Luxury","Large","Coupe",25,1624,47660
+2002,"Suzuki","Esteem","regular unleaded",122,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",32,481,13299
+2002,"Pontiac","Firebird","premium unleaded (required)",310,8,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Performance","Midsize","Convertible",23,210,32095
+2002,"Infiniti","G20","regular unleaded",145,4,"AUTOMATIC","front wheel drive",4,"Luxury","Compact","Sedan",23,190,22195
+2002,"Oldsmobile","Intrigue","regular unleaded",215,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",27,26,28070
+2002,"Rolls-Royce","Park Ward","premium unleaded (required)",322,12,"AUTOMATIC","rear wheel drive",4,"Exotic,Luxury","Large","Sedan",15,86,262990
+2002,"Honda","Passport","regular unleaded",205,6,"AUTOMATIC","four wheel drive",4,"N/A","Midsize","4dr SUV",19,2202,30900
+2002,"Chevrolet","Prizm","regular unleaded",125,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",37,1385,14330
+2002,"Chrysler","Prowler","premium unleaded (required)",253,6,"AUTOMATIC","rear wheel drive",2,"High-Performance","Compact","Convertible",21,1013,44625
+2002,"Dodge","Ram Wagon","regular unleaded",175,6,"AUTOMATIC","rear wheel drive",3,"N/A","Compact","Passenger Van",15,1851,21345
+2002,"Volvo","XC","premium unleaded (required)",197,5,"AUTOMATIC","all wheel drive",4,"Crossover,Luxury","Midsize","Wagon",23,870,36500
+2002,"BMW","Z3","premium unleaded (required)",225,6,"MANUAL","rear wheel drive",2,"Luxury,Performance","Compact","Convertible",26,3916,37900
+2001,"Ferrari","550","premium unleaded (required)",485,12,"MANUAL","rear wheel drive",2,"Exotic,High-Performance","Compact","Convertible",12,2774,248500
+2001,"Cadillac","Catera","premium unleaded (required)",200,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",22,1624,31305
+2001,"Rolls-Royce","Corniche","premium unleaded (required)",325,8,"AUTOMATIC","rear wheel drive",2,"Exotic,Luxury","Large","Convertible",15,86,359990
+2001,"Lamborghini","Diablo","premium unleaded (required)",550,12,"MANUAL","all wheel drive",2,"Exotic,High-Performance","Compact","Coupe",12,1158,294900
+2001,"Infiniti","I30","premium unleaded (required)",227,6,"AUTOMATIC","front wheel drive",4,"Luxury,Performance","Midsize","Sedan",24,190,31790
+2001,"GMC","Jimmy","regular unleaded",190,6,"AUTOMATIC","rear wheel drive",4,"N/A","Midsize","4dr SUV",20,549,26770
+2001,"Chrysler","LHS","premium unleaded (required)",253,6,"AUTOMATIC","front wheel drive",4,"Performance","Large","Sedan",24,1013,28680
+2001,"Chevrolet","Lumina","regular unleaded",175,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",26,1385,18890
+2001,"Chevrolet","Metro","regular unleaded",79,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",31,1385,12515
+2001,"Plymouth","Neon","regular unleaded",132,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",30,535,12715
+2001,"Plymouth","Prowler","premium unleaded (required)",253,6,"AUTOMATIC","rear wheel drive",2,"High-Performance","Compact","Convertible",21,535,44625
+2001,"GMC","Sierra C3","regular unleaded",325,8,"AUTOMATIC","all wheel drive",4,"N/A","Large","Extended Cab Pickup",13,549,38370
+2001,"Suzuki","Swift","regular unleaded",79,4,"AUTOMATIC","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",31,481,9949
+2000,"Mazda","B-Series Pickup","regular unleaded",119,4,"MANUAL","rear wheel drive",2,"N/A","Compact","Regular Cab Pickup",24,586,2637
+2000,"Plymouth","Breeze","regular unleaded",132,4,"MANUAL","front wheel drive",4,"N/A","Midsize","Sedan",34,535,2000
+2000,"Mercedes-Benz","C43 AMG","regular unleaded",302,8,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,Luxury,Performance","Compact","Sedan",21,617,5739
+2000,"Chrysler","Cirrus","regular unleaded",168,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",24,1013,2373
+2000,"Mercedes-Benz","E55 AMG","regular unleaded",349,8,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,Luxury,Performance","Midsize","Sedan",21,617,6120
+2000,"Ford","F-150 SVT Lightning","regular unleaded",360,8,"AUTOMATIC","rear wheel drive",2,"Factory Tuner,Performance","Large","Regular Cab Pickup",15,5657,5860
+2000,"Chrysler","Grand Voyager","regular unleaded",158,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Passenger Minivan",23,1013,2169
+2000,"Plymouth","Grand Voyager","flex-fuel (unleaded/E85)",158,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Large","Passenger Minivan",23,535,2331
+2000,"Lexus","GS 400","regular unleaded",300,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Midsize","Sedan",22,454,3965
+2000,"Lexus","LS 400","regular unleaded",290,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",23,454,5035
+2000,"Mercedes-Benz","ML55 AMG","regular unleaded",342,8,"AUTOMATIC","all wheel drive",4,"Factory Tuner,Luxury,Performance","Midsize","4dr SUV",16,617,5650
+2000,"Dodge","Ram Van","regular unleaded",175,6,"AUTOMATIC","rear wheel drive",3,"N/A","Midsize","Cargo Van",16,1851,2237
+2000,"Volvo","S70","regular unleaded",190,5,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",24,870,2430
+2000,"Lexus","SC 300","regular unleaded",225,6,"AUTOMATIC","rear wheel drive",2,"Luxury,Performance","Midsize","Coupe",22,454,4024
+2000,"Lexus","SC 400","regular unleaded",290,8,"AUTOMATIC","rear wheel drive",2,"Luxury,Performance","Midsize","Coupe",23,454,4404
+2000,"Chevrolet","Tahoe Limited/Z71","regular unleaded",255,8,"AUTOMATIC","four wheel drive",4,"N/A","Large","4dr SUV",15,1385,3465
+2000,"Plymouth","Voyager","flex-fuel (unleaded/E85)",158,6,"AUTOMATIC","front wheel drive",4,"Flex Fuel","Midsize","Passenger Minivan",23,535,2317
+1999,"Chevrolet","C/K 1500 Series","regular unleaded",230,8,"AUTOMATIC","rear wheel drive",3,"N/A","Large","Extended Cab Pickup",17,1385,3696
+1999,"Oldsmobile","Cutlass","regular unleaded",150,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",26,26,2045
+1999,"Oldsmobile","Eighty-Eight","regular unleaded",205,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",27,26,2210
+1999,"Ford","F-250","regular unleaded",220,8,"MANUAL","rear wheel drive",2,"N/A","Large","Regular Cab Pickup",17,5657,3251
+1999,"Ford","Mustang SVT Cobra","regular unleaded",320,8,"MANUAL","rear wheel drive",2,"Factory Tuner,Performance","Compact","Coupe",22,5657,4584
+1999,"Buick","Riviera","regular unleaded",240,6,"AUTOMATIC","front wheel drive",2,"N/A","Large","Coupe",25,155,2379
+1999,"GMC","Sierra Classic 1500","regular unleaded",200,8,"AUTOMATIC","rear wheel drive",3,"N/A","Large","Extended Cab Pickup",17,549,4439
+1999,"Acura","SLX","regular unleaded",215,6,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",18,204,2934
+1999,"GMC","Suburban","regular unleaded",255,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","4dr SUV",17,549,3420
+1998,"Nissan","240SX","regular unleaded",155,4,"MANUAL","rear wheel drive",2,"Performance","Compact","Coupe",25,2009,4299
+1998,"Saab","9000","regular unleaded",225,4,"MANUAL","front wheel drive",4,"Hatchback,Luxury","Midsize","4dr Hatchback",25,376,2172
+1998,"Saab","900","regular unleaded",185,4,"MANUAL","front wheel drive",2,"Hatchback,Luxury","Compact","2dr Hatchback",25,376,2000
+1998,"Audi","Cabriolet","regular unleaded",172,6,"AUTOMATIC","front wheel drive",2,"Luxury","Compact","Convertible",22,3105,3137
+1998,"Chevrolet","Chevy Van","regular unleaded",200,6,"AUTOMATIC","rear wheel drive",3,"N/A","Midsize","Cargo Van",18,1385,2050
+1998,"Chevrolet","C/K 2500 Series","regular unleaded",230,8,"MANUAL","rear wheel drive",2,"N/A","Large","Regular Cab Pickup",17,1385,2949
+1998,"Ford","E-250","regular unleaded",235,6,"AUTOMATIC","rear wheel drive",3,"N/A","Midsize","Cargo Van",17,5657,2080
+1998,"Lincoln","Mark VIII","regular unleaded",280,8,"AUTOMATIC","rear wheel drive",2,"Luxury","Large","Coupe",24,61,2411
+1998,"Buick","Skylark","regular unleaded",150,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",30,155,2000
+1998,"Toyota","T100","regular unleaded",150,4,"MANUAL","rear wheel drive",2,"N/A","Large","Regular Cab Pickup",22,2031,2540
+1998,"Toyota","Tercel","regular unleaded",93,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",35,2031,2148
+1998,"Pontiac","Trans Sport","regular unleaded",180,6,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Passenger Minivan",23,210,2000
+1998,"Volvo","V90","regular unleaded",181,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Wagon",23,870,2200
+1998,"Suzuki","X-90","regular unleaded",95,4,"MANUAL","four wheel drive",2,"N/A","Compact","2dr SUV",26,481,2000
+1997,"BMW","8 Series","regular unleaded",322,12,"AUTOMATIC","rear wheel drive",2,"Luxury,Performance","Midsize","Coupe",19,3916,7624
+1997,"Volvo","850","regular unleaded",168,5,"MANUAL","front wheel drive",4,"Luxury","Midsize","Sedan",26,870,2000
+1997,"Volvo","960","regular unleaded",181,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Wagon",24,870,2000
+1997,"Ford","Aspire","regular unleaded",63,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",38,5657,2000
+1997,"Mercedes-Benz","C36 AMG","regular unleaded",276,6,"AUTOMATIC","rear wheel drive",4,"Factory Tuner,Luxury,Performance","Compact","Sedan",22,617,4330
+1997,"Oldsmobile","Cutlass Supreme","regular unleaded",160,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",26,26,2000
+1997,"Infiniti","J30","regular unleaded",210,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",22,190,2081
+1997,"Lexus","LX 450","regular unleaded",212,6,"AUTOMATIC","four wheel drive",4,"Luxury","Midsize","4dr SUV",14,454,4282
+1997,"Mazda","MX-6","regular unleaded",164,6,"MANUAL","front wheel drive",2,"Performance","Compact","Coupe",24,586,2000
+1997,"Toyota","Paseo","regular unleaded",93,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",34,2031,2000
+1997,"Toyota","Previa","regular unleaded",161,4,"AUTOMATIC","all wheel drive",3,"N/A","Compact","Passenger Minivan",19,2031,2388
+1997,"Ford","Probe","regular unleaded",118,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",30,5657,2000
+1997,"Subaru","SVX","regular unleaded",230,6,"AUTOMATIC","all wheel drive",2,"Performance","Compact","Coupe",22,640,2749
+1997,"Nissan","Truck","regular unleaded",134,4,"MANUAL","four wheel drive",2,"N/A","Compact","Extended Cab Pickup",18,2009,2918
+1996,"Nissan","300ZX","regular unleaded",300,6,"MANUAL","rear wheel drive",2,"Performance","Compact","Coupe",22,2009,3510
+1996,"Chevrolet","Beretta","regular unleaded",120,4,"MANUAL","front wheel drive",2,"N/A","Midsize","Coupe",33,1385,2000
+1996,"Oldsmobile","Ciera","regular unleaded",120,4,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",29,26,2000
+1996,"Chevrolet","Corsica","regular unleaded",120,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",29,1385,2000
+1996,"Cadillac","Fleetwood","regular unleaded",260,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Sedan",24,1624,2158
+1996,"Chevrolet","Lumina Minivan","regular unleaded",180,6,"AUTOMATIC","front wheel drive",3,"N/A","Compact","Passenger Minivan",24,1385,2000
+1996,"Mitsubishi","Mighty Max Pickup","regular unleaded",116,4,"MANUAL","rear wheel drive",2,"N/A","Compact","Regular Cab Pickup",23,436,2000
+1996,"Chrysler","New Yorker","regular unleaded",214,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",24,1013,2000
+1996,"Oldsmobile","Ninety-Eight","regular unleaded",205,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",27,26,2000
+1996,"Buick","Roadmaster","regular unleaded",260,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Sedan",24,155,2190
+1995,"Audi","90","regular unleaded",172,6,"MANUAL","all wheel drive",4,"Luxury","Compact","Sedan",23,3105,2000
+1995,"Porsche","928","regular unleaded",345,8,"MANUAL","rear wheel drive",2,"Hatchback,Luxury,Performance","Compact","2dr Hatchback",17,1715,9400
+1995,"Mazda","929","regular unleaded",193,6,"AUTOMATIC","rear wheel drive",4,"N/A","Midsize","Sedan",22,586,2000
+1995,"Porsche","968","regular unleaded",236,4,"MANUAL","rear wheel drive",2,"Luxury,Performance","Compact","Coupe",24,1715,4723
+1995,"Plymouth","Acclaim","regular unleaded",100,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",26,535,2000
+1995,"Oldsmobile","Eighty-Eight Royale","regular unleaded",205,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",26,26,2000
+1995,"Mitsubishi","Expo","regular unleaded",136,4,"AUTOMATIC","four wheel drive",4,"Hatchback","Compact","4dr Hatchback",21,436,2000
+1995,"Chrysler","Le Baron","regular unleaded",141,6,"AUTOMATIC","front wheel drive",2,"N/A","Compact","Convertible",26,1013,2000
+1995,"Acura","Legend","regular unleaded",200,6,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Sedan",22,204,2356
+1995,"Toyota","MR2","regular unleaded",135,4,"MANUAL","rear wheel drive",2,"Performance","Compact","Coupe",26,2031,2038
+1995,"Mazda","MX-3","regular unleaded",88,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",34,586,2000
+1995,"Toyota","Pickup","regular unleaded",150,6,"MANUAL","rear wheel drive",2,"N/A","Compact","Extended Cab Pickup",22,2031,2311
+1995,"GMC","Rally Wagon","regular unleaded",165,6,"AUTOMATIC","rear wheel drive",3,"N/A","Compact","Passenger Van",15,549,2000
+1995,"Mazda","RX-7","regular unleaded",255,3,"MANUAL","rear wheel drive",2,"Factory Tuner,Performance","Compact","Coupe",23,586,8839
+1995,"Suzuki","Samurai","regular unleaded",66,4,"MANUAL","four wheel drive",2,"N/A","Compact","Convertible SUV",26,481,2000
+1995,"Hyundai","Scoupe","regular unleaded",115,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",30,1439,2000
+1995,"Chevrolet","Sportvan","regular unleaded",163,6,"AUTOMATIC","rear wheel drive",3,"N/A","Midsize","Passenger Van",15,1385,2000
+1995,"GMC","Vandura","regular unleaded",165,6,"AUTOMATIC","rear wheel drive",3,"N/A","Midsize","Cargo Van",20,549,2000
+1994,"Audi","100","regular unleaded",172,6,"AUTOMATIC","front wheel drive",4,"Luxury","Midsize","Wagon",21,3105,2000
+1994,"Mazda","323","regular unleaded",82,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",33,586,2000
+1994,"Dodge","Colt","regular unleaded",113,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",30,1851,2000
+1994,"Plymouth","Colt","regular unleaded",113,4,"MANUAL","front wheel drive",4,"N/A","Compact","Wagon",27,535,2000
+1994,"Subaru","Justy","regular unleaded",73,3,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",33,640,2000
+1994,"Plymouth","Laser","regular unleaded",195,4,"MANUAL","all wheel drive",2,"Hatchback,Performance","Compact","2dr Hatchback",23,535,2000
+1994,"Subaru","Loyale","regular unleaded",90,4,"MANUAL","four wheel drive",4,"N/A","Compact","Wagon",26,640,2000
+1994,"Mazda","Navajo","regular unleaded",160,6,"MANUAL","rear wheel drive",2,"N/A","Compact","2dr SUV",19,586,2000
+1994,"Chevrolet","S-10 Blazer","regular unleaded",165,6,"MANUAL","rear wheel drive",2,"N/A","Compact","2dr SUV",20,1385,2000
+1994,"Dodge","Shadow","regular unleaded",100,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",27,1851,2000
+1994,"Pontiac","Sunbird","regular unleaded",110,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",32,210,2000
+1994,"Plymouth","Sundance","regular unleaded",100,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",27,535,2000
+1994,"Ford","Tempo","regular unleaded",96,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",30,5657,2000
+1994,"Audi","V8","regular unleaded",276,8,"AUTOMATIC","all wheel drive",4,"Luxury,Performance","Midsize","Sedan",18,3105,2239
+1994,"Acura","Vigor","regular unleaded",176,5,"MANUAL","front wheel drive",4,"Luxury","Midsize","Sedan",24,204,2000
+1993,"Mercedes-Benz","190-Class","regular unleaded",130,4,"MANUAL","rear wheel drive",4,"Luxury","Compact","Sedan",26,617,2000
+1993,"Volvo","240","regular unleaded",114,4,"MANUAL","rear wheel drive",4,"Luxury","Midsize","Sedan",26,870,2000
+1993,"Mercedes-Benz","300-Class","regular unleaded",177,6,"AUTOMATIC","all wheel drive",4,"Luxury","Midsize","Wagon",19,617,2544
+1993,"Mercedes-Benz","400-Class","regular unleaded",275,8,"AUTOMATIC","rear wheel drive",4,"Luxury,Performance","Midsize","Sedan",22,617,2278
+1993,"Mercedes-Benz","500-Class","regular unleaded",315,8,"AUTOMATIC","rear wheel drive",2,"Luxury","Large","Coupe",16,617,3176
+1993,"Mercedes-Benz","600-Class","regular unleaded",389,12,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Sedan",15,617,3108
+1993,"Cadillac","Allante","regular unleaded",295,8,"AUTOMATIC","front wheel drive",2,"Luxury,Performance","Compact","Convertible",20,1624,2358
+1993,"Volkswagen","Cabriolet","regular unleaded",94,4,"MANUAL","front wheel drive",2,"N/A","Compact","Convertible",27,873,2000
+1993,"Dodge","Dynasty","regular unleaded",141,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",26,1851,2000
+1993,"Ford","Festiva","regular unleaded",63,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",38,5657,2000
+1993,"Volkswagen","Fox","regular unleaded",81,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",30,873,2000
+1993,"Chrysler","Imperial","regular unleaded",150,6,"AUTOMATIC","front wheel drive",4,"N/A","Large","Sedan",24,1013,2000
+1993,"Pontiac","Le Mans","regular unleaded",74,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",37,210,2000
+1993,"Nissan","NX","regular unleaded",140,4,"MANUAL","front wheel drive",2,"Hatchback,Performance","Compact","2dr Hatchback",28,2009,2000
+1993,"Dodge","RAM 150","regular unleaded",180,6,"MANUAL","four wheel drive",2,"N/A","Large","Regular Cab Pickup",16,1851,2000
+1993,"Dodge","Ramcharger","regular unleaded",230,8,"AUTOMATIC","four wheel drive",2,"N/A","Midsize","2dr SUV",15,1851,2000
+1993,"Cadillac","Sixty Special","regular unleaded",200,8,"AUTOMATIC","front wheel drive",4,"Luxury","Large","Sedan",23,1624,2000
+1993,"GMC","Typhoon","regular unleaded",285,6,"AUTOMATIC","all wheel drive",2,"Factory Tuner,Performance","Compact","2dr SUV",17,549,6890
+1992,"Audi","80","regular unleaded",130,5,"MANUAL","front wheel drive",4,"Luxury","Compact","Sedan",24,3105,2000
+1992,"Cadillac","Brougham","regular unleaded",170,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Sedan",23,1624,2000
+1992,"Oldsmobile","Custom Cruiser","regular unleaded",170,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Wagon",23,26,2000
+1992,"Mitsubishi","Precis","regular unleaded",81,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",30,436,2000
+1992,"Nissan","Stanza","regular unleaded",138,4,"AUTOMATIC","front wheel drive",4,"N/A","Compact","Sedan",25,2009,2000
+1991,"Audi","200","regular unleaded",217,5,"MANUAL","all wheel drive",4,"Luxury,Performance","Midsize","Sedan",22,3105,2000
+1991,"Mercedes-Benz","350-Class","diesel",134,6,"AUTOMATIC","rear wheel drive",4,"Diesel,Luxury","Large","Sedan",23,617,2178
+1991,"Mercedes-Benz","420-Class","regular unleaded",201,8,"AUTOMATIC","rear wheel drive",4,"Luxury","Large","Sedan",17,617,2186
+1991,"Mercedes-Benz","560-Class","regular unleaded",238,8,"AUTOMATIC","rear wheel drive",2,"Luxury","Large","Coupe",16,617,2443
+1991,"Pontiac","6000","regular unleaded",140,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Wagon",28,210,2000
+1991,"Honda","Civic CRX","regular unleaded",108,4,"MANUAL","front wheel drive",2,"Hatchback","Compact","2dr Hatchback",30,2202,2000
+1991,"Audi","Coupe","regular unleaded",164,5,"MANUAL","all wheel drive",2,"Hatchback,Factory Tuner,Luxury,Performance","Compact","2dr Hatchback",22,3105,2000
+1991,"Volvo","Coupe","regular unleaded",188,4,"AUTOMATIC","rear wheel drive",2,"Luxury","Midsize","Coupe",20,870,2000
+1991,"Oldsmobile","Cutlass Calais","regular unleaded",110,4,"MANUAL","front wheel drive",4,"N/A","Compact","Sedan",31,26,2000
+1991,"Lexus","ES 250","regular unleaded",156,6,"MANUAL","front wheel drive",4,"Luxury","Compact","Sedan",23,454,2000
+1991,"Ford","LTD Crown Victoria","regular unleaded",150,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Wagon",22,5657,2000
+1991,"Buick","Reatta","regular unleaded",170,6,"AUTOMATIC","front wheel drive",2,"Luxury","Compact","Convertible",25,155,2000
+1991,"GMC","S-15 Jimmy","regular unleaded",150,6,"MANUAL","rear wheel drive",2,"N/A","Compact","2dr SUV",22,549,2000
+1991,"GMC","Syclone","regular unleaded",280,6,"AUTOMATIC","all wheel drive",2,"Factory Tuner,Performance","Compact","Regular Cab Pickup",16,549,5667
+1991,"Chrysler","TC","regular unleaded",141,6,"AUTOMATIC","front wheel drive",2,"Luxury","Compact","Convertible",22,1013,2000
+1991,"Volkswagen","Vanagon","regular unleaded",90,4,"MANUAL","rear wheel drive",3,"N/A","Large","Passenger Minivan",18,873,2000
+1991,"Subaru","XT","regular unleaded",97,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",29,640,2000
+1990,"Volvo","760","regular unleaded",144,6,"AUTOMATIC","rear wheel drive",4,"Luxury","Midsize","Sedan",19,870,2000
+1990,"Volvo","780","regular unleaded",188,4,"AUTOMATIC","rear wheel drive",2,"Luxury","Midsize","Coupe",20,870,2000
+1990,"Nissan","Axxess","regular unleaded",138,4,"MANUAL","front wheel drive",3,"N/A","Compact","Passenger Minivan",24,2009,2000
+1990,"Ford","Bronco II","regular unleaded",140,6,"MANUAL","rear wheel drive",2,"N/A","Compact","2dr SUV",20,5657,2000
+1990,"Buick","Electra","regular unleaded",165,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",25,155,2000
+1990,"Buick","Estate Wagon","regular unleaded",140,8,"AUTOMATIC","rear wheel drive",4,"N/A","Large","Wagon",22,155,2000
+1990,"Plymouth","Horizon","regular unleaded",93,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",31,535,2000
+1990,"Dodge","Omni","regular unleaded",93,4,"MANUAL","front wheel drive",4,"Hatchback","Compact","4dr Hatchback",31,1851,2000
+1990,"Nissan","Pulsar","regular unleaded",90,4,"MANUAL","front wheel drive",2,"N/A","Compact","Coupe",31,2009,2000
+1990,"GMC","S-15","regular unleaded",105,4,"MANUAL","rear wheel drive",2,"N/A","Compact","Regular Cab Pickup",25,549,2000
+1990,"Mitsubishi","Sigma","regular unleaded",142,6,"AUTOMATIC","front wheel drive",4,"N/A","Midsize","Sedan",20,436,2000
+1990,"Nissan","Van","regular unleaded",106,4,"AUTOMATIC","rear wheel drive",3,"N/A","Compact","Passenger Minivan",19,2009,2000
+1990,"Mitsubishi","Vanwagon","regular unleaded",107,4,"AUTOMATIC","rear wheel drive",3,"N/A","Compact","Passenger Minivan",19,436,2000
