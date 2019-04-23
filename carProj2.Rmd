@@ -1,0 +1,135 @@
+---
+title: "mpg Project"
+author: "Samuel Snarr, Nathaniel O'Brien, Robert Atwood "
+date: "March 21, 2019"
+output: html_document
+---
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 200)
+```
+
+```{r}
+dat = read.csv("C:\\Users\\sssna\\Downloads\\carstrain.csv")
+```
+
+## Things that we did to the model
+
+***
+
+* popularity-This is not a very relevant variable. And it does not seem to have much of an effect on the mpg when plotted. 
+* model-there are too many variables and I there is not enough data for each model. I believe this would overfit the model if we were to include this. It seems too descriptive and not relevent enough to go in the model. 
+* market category-much of this information is already given in other covariates such as size, transmission type, hp, etc.
+* make-does not seem to be as relevent as some of the other covariates that give similar information. Make would seem to give the same information as size
+* number.of.doors-gives very similar information as size of car.
+* vehicle.style-does not seem relevant except that it gives size of car but this is the same as vehicle.size.
+
+Other than the above removals, we transformed a few variables to make them more linear and then added those to the model. We combined a few categories that were causing problems in the model giving us a bit of collinearity. Also, we ran the stepwise AIC to see what the machine thought we should take out. It more or less agreed with what we already were thinking. We did not take out everything that the program thought we should, such as vehicle size. We did this because we wanted to preserve our fairly high $R^2$ and minimize the low mean square prediction error.   
+
+See the following work that shows what we did to build our model. 
+Note, we commented out some code that took up a lot of space. We also removed some entirely for brevity. 
+
+***
+
+```{r}
+#removing unnessary data
+dat2=subset(dat, select=c("year", "engine.fuel.type", "engine.hp", "engine.cylinders", "transmission.type", "driven_wheels",  "vehicle.size", "highway.mpg", "msrp"))
+```
+## Testing for linearity among Covariates
+```{r}
+# plot(dat$year, dat$highway.mpg)
+# plot(dat$engine.hp, dat$highway.mpg)
+# plot(dat$msrp, dat$highway.mpg)
+# plot(dat$vehicle.size, dat$highway.mpg)
+# plot(dat$engine.fuel.type, dat$highway.mpg)
+# plot(dat$driven_wheels, dat$highway.mpg)
+# plot(dat$transmission.type, dat$highway.mpg)
+# plot(dat$engine.cylinders, dat$highway.mpg)
+# plot(dat$number.of.doors, dat$highway.mpg)
+```
+***
+msrp looks non-linear but doing a log transformation on it makes it less like y=1/x. 
+```{r}
+par(mfrow = c(1, 2))
+plot(dat$msrp, dat$highway.mpg)
+plot(log(dat$msrp), dat$highway.mpg)
+dat2$log.msrp=log(dat2$msrp)
+
+```
+***
+Same thing for engine.hp
+It originally seems to follow a y=1/x curve.
+```{r}
+par(mfrow = c(1, 2))
+plot(dat$engine.hp, dat$highway.mpg)
+plot(log(dat$engine.hp), dat$highway.mpg)
+dat2$log.engine.hp=log(dat2$engine.hp)
+```
+***
+Engine cylinders is essentially a categegorical variable, so we really want to make it a `factor`. When testing this it reduced our error quite a bit on our test data. But unfortunately we can't since the test data contains a 16 cylinder engine which makes us unable to use it categorically.
+We would instead log engine cylinders but the log of 0 is -inf which causes problems so we will have to take sqrt of it. It looks a little bit more linear. 
+```{r}
+#dat2$engine.cylinders=factor(dat2$engine.cylinders)
+par(mfrow = c(1, 2))
+plot(dat2$engine.cylinders, dat2$highway.mpg)
+plot(dat2$engine.cylinders^0.5, dat2$highway.mpg)
+dat2$engine.cylinders0.5= dat2$engine.cylinders^0.5
+```
+***
+##Now creating a model with these transformed covariates.
+
+```{r}
+fit2 = lm(highway.mpg ~ . , dat2)
+summary(fit2)
+```
+The NA in transmission.typeDIRECT_DRIVE is caused by the same information being given by electric car. 
+So lets make all electric cars automatic, since they practically are. 
+
+```{r}
+dat2$transmission.type[dat2$transmission.type=='DIRECT_DRIVE'] = 'AUTOMATIC'
+
+```
+fitting again
+```{r}
+fit2 = lm(highway.mpg ~ . , dat2)
+summary(fit2)
+```
+***
+####Now running the backwards stepwise command. 
+
+```{r}
+library(MASS)
+stepwise.back=stepAIC(fit2, direction = 'backward')
+```
+We could remove engine.cylinders since engine.cylinders0.5 is in there but our $R^2$ is slightly better with both. 
+
+***
+
+So the model we are left with is
+
+```{r}
+
+fit3 = lm(highway.mpg ~ year + engine.fuel.type + engine.hp + driven_wheels  + log.msrp  + log.engine.hp  + engine.cylinders+ engine.cylinders0.5 + vehicle.size, data=dat2)
+summary(fit3)
+
+```
+
+So fit3 is about as good as I think we can do. The $R^2 = 0.892$ is not bad considering we have a pretty large dataset that is hopefully representative of the population of cars that this was pulled from. 
+
+#### Creating prediction column in new dataset. 
+
+```{r}
+testData = read.csv("C:\\Users\\sssna\\Downloads\\carstestnooutcome.csv")
+testData$log.msrp=log(testData$msrp)
+testData$log.engine.hp=log(testData$engine.hp)
+testData$engine.cylinders0.5=testData$engine.cylinders^0.5
+
+testData$predicted.MPG  = predict(fit3, newdata=testData)
+
+subset(testData, select = c('year', 'vehicle.size', 'make', 'engine.hp', 'engine.cylinders', 'predicted.MPG'))[1:50, ]
+
+#write.csv(predict(fit3, newdata=testData), "model1test_Snarr_Obrien_Atwood.csv")
+```
+
+***
+
+
